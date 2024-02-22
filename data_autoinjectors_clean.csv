@@ -1,0 +1,1001 @@
+Year,Demand (in millions),Injector Type,Material Type,Volume Produced,Reusable,Recyclable,Usage Frequency,Efficacy rate,Carbon Footprint,Recyclable Type
+2018,64.81105508,Pen,Type1 Plastic,188735.5049,0,FALSE,'Yearly',1,250478.6267,Non-Recyclable
+2016,147.1819652,Pen,Type2 Plastic,449721.2093,0,FALSE,'Monthly',1,519975.471,Non-Recyclable
+2016,50.23737601,Patch Injector,Type2 Plastic,393309.9052,0,FALSE,'Weekly',0,555109.0507,Non-Recyclable
+2011,55.18705031,Patch Injector,Recyclable Plastic,57360.05,0,TRUE,'Weekly',1,37722.31426,Recyclable
+2014,51.14039423,Pen,Type1 Plastic,787383.0639,0,FALSE,'Monthly',1,956001.3121,Non-Recyclable
+2020,101.6637305,Pen,Type2 Plastic,188181.0697,1,FALSE,'Monthly',1,233966.5673,Non-Recyclable
+2025,336.3566489,Autoinjector,Recyclable Plastic,1033858.846,0,TRUE,'Monthly',1,689258.7735,Recyclable
+2026,260.9315403,Autoinjector,Recyclable Plastic,72160.18943,0,TRUE,'Weekly',1,44225.03043,Recyclable
+2028,642.533099,Autoinjector,Type2 Plastic,1310383.208,0,FALSE,'Weekly',1,1820336.596,Non-Recyclable
+2014,79.95918139,Patch Injector,Type1 Plastic,804059.244,0,FALSE,'Daily',1,1162604.657,Non-Recyclable
+2012,58.60128782,Autoinjector,Type1 Plastic,891655.8849,0,FALSE,'Yearly',1,1246083.29,Non-Recyclable
+2020,107.6952006,Pen,Recyclable Plastic,785016.7249,0,TRUE,'Monthly',1,472548.6059,Recyclable
+2022,347.7964625,Pen,Recyclable Plastic,1098659.827,0,TRUE,'Monthly',1,715642.0672,Recyclable
+2013,67.35413475,Autoinjector,Type2 Plastic,998481.5597,0,FALSE,'Weekly',1,1540532.798,Non-Recyclable
+2021,70.2750093,Autoinjector,Type1 Plastic,575171.5765,0,FALSE,'Yearly',1,771602.1135,Non-Recyclable
+2028,241.311209,Autoinjector,Type2 Plastic,1443207.747,0,FALSE,'Monthly',1,2293148.642,Non-Recyclable
+2027,97.19516511,Pen,Type1 Plastic,746412.9886,0,FALSE,'Weekly',1,1163162.349,Non-Recyclable
+2029,131.4816587,Patch Injector,Type2 Plastic,624153.8975,0,FALSE,'Weekly',1,890100.2135,Non-Recyclable
+2010,50,Pen,Type1 Plastic,338288,0,FALSE,'Monthly',0,484468.2744,Non-Recyclable
+2025,202.7226787,Autoinjector,Recyclable Plastic,1914872.954,0,TRUE,'Monthly',1,1285881.966,Recyclable
+2023,146.9298935,Pen,Type1 Plastic,1394105.149,1,FALSE,'Daily',1,1874008.619,Non-Recyclable
+2019,139.8796909,Patch Injector,Recyclable Plastic,884975.6005,0,TRUE,'Weekly',1,653150.5024,Recyclable
+2012,57.37008501,Patch Injector,Type2 Plastic,315969.7896,0,FALSE,'Monthly',1,451888.5652,Non-Recyclable
+2013,62.06469374,Patch Injector,Type1 Plastic,812126.8492,1,FALSE,'Weekly',1,1298440.552,Non-Recyclable
+2019,71.50111623,Patch Injector,Recyclable Plastic,943862.1204,0,TRUE,'Daily',1,690575.158,Recyclable
+2028,471.6717547,Patch Injector,Recyclable Plastic,1993604.825,0,TRUE,'Weekly',1,1400023.126,Recyclable
+2010,50,Autoinjector,Type2 Plastic,512594,1,FALSE,'Monthly',1,742964.5216,Non-Recyclable
+2011,56.09972769,Autoinjector,Type1 Plastic,21610.6,0,FALSE,'Weekly',0,32293.09129,Non-Recyclable
+2023,65.03511949,Patch Injector,Recyclable Plastic,1424712.747,0,TRUE,'Weekly',1,1140979.647,Recyclable
+2024,267.9472296,Pen,Type1 Plastic,1260648.539,0,FALSE,'Weekly',1,1771236.251,Non-Recyclable
+2020,262.4520021,Pen,Type1 Plastic,199815.9166,0,FALSE,'Weekly',1,269348.9713,Non-Recyclable
+2030,223.1069219,Patch Injector,Type1 Plastic,128269.4221,0,FALSE,'Daily',0,195162.9564,Non-Recyclable
+2023,234.3701046,Pen,Recyclable Plastic,542460.3644,0,TRUE,'Yearly',0,364638.7466,Recyclable
+2010,50,Pen,Type1 Plastic,857486,1,FALSE,'Monthly',0,1116094.639,Non-Recyclable
+2026,121.6583663,Autoinjector,Type1 Plastic,33021.25986,0,FALSE,'Monthly',1,50200.87992,Non-Recyclable
+2021,51.68013971,Autoinjector,Type1 Plastic,154941.8945,0,FALSE,'Weekly',1,246690.4165,Non-Recyclable
+2017,79.0871843,Patch Injector,Recyclable Plastic,329044.1429,0,TRUE,'Monthly',1,281028.6066,Recyclable
+2013,59.84535659,Patch Injector,Type2 Plastic,947986.0999,0,FALSE,'Weekly',1,1487449.414,Non-Recyclable
+2012,52.13076554,Patch Injector,Recyclable Plastic,668011.3489,1,TRUE,'Monthly',1,499125.04,Recyclable
+2013,61.88752904,Patch Injector,Recyclable Plastic,92623.8897,1,TRUE,'Weekly',1,58404.02022,Recyclable
+2025,138.2518722,Patch Injector,Type1 Plastic,368212.6435,0,FALSE,'Monthly',0,540215.9845,Non-Recyclable
+2013,65.66006162,Patch Injector,Type2 Plastic,798691.9004,0,FALSE,'Monthly',1,1043263.671,Non-Recyclable
+2024,584.578988,Autoinjector,Type1 Plastic,1605312.157,0,FALSE,'Weekly',1,1934839.786,Non-Recyclable
+2029,218.9026545,Patch Injector,Type2 Plastic,1043441.343,0,FALSE,'Daily',1,1614579.994,Non-Recyclable
+2025,71.01670311,Autoinjector,Type1 Plastic,1779643.158,0,FALSE,'Monthly',1,2822151.866,Non-Recyclable
+2011,56.91070204,Patch Injector,Type1 Plastic,273877.78,1,FALSE,'Monthly',1,368862.8204,Non-Recyclable
+2022,68.16717836,Autoinjector,Recyclable Plastic,1297276.373,0,TRUE,'Monthly',1,1043804.373,Recyclable
+2012,55.37868403,Pen,Type2 Plastic,184562.0532,1,FALSE,'Monthly',1,269925.9967,Non-Recyclable
+2029,740.2747731,Patch Injector,Recyclable Plastic,265789.3484,0,TRUE,'Daily',1,182966.937,Recyclable
+2026,200.6378896,Patch Injector,Recyclable Plastic,673325.8964,0,TRUE,'Monthly',1,473436.3262,Recyclable
+2013,74.38154182,Patch Injector,Recyclable Plastic,856483.9765,0,TRUE,'Weekly',1,545716.7462,Recyclable
+2028,50.2250798,Pen,Type1 Plastic,2031935.182,0,FALSE,'Monthly',0,3027677.69,Non-Recyclable
+2021,50.49511287,Autoinjector,Recyclable Plastic,970243.7905,0,TRUE,'Monthly',0,761285.3169,Recyclable
+2025,51.58519958,Patch Injector,Recyclable Plastic,1662649.529,0,TRUE,'Monthly',0,1262311.451,Recyclable
+2012,63.08541509,Autoinjector,Recyclable Plastic,96955.43962,0,TRUE,'Monthly',0,69357.06434,Recyclable
+2024,90.79274771,Autoinjector,Recyclable Plastic,650686.404,0,TRUE,'Monthly',1,547260.877,Recyclable
+2022,161.7366646,Autoinjector,Type2 Plastic,200575.2888,0,FALSE,'Monthly',1,270702.6443,Non-Recyclable
+2010,50,Autoinjector,Recyclable Plastic,253930,1,TRUE,'Daily',0,170177.5719,Recyclable
+2029,672.562341,Patch Injector,Type2 Plastic,2003201.979,0,FALSE,'Daily',1,3103255.364,Non-Recyclable
+2023,302.4281963,Autoinjector,Recyclable Plastic,930906.2547,0,TRUE,'Weekly',1,765260.2841,Recyclable
+2030,125.5000637,Patch Injector,Type1 Plastic,1818743.486,0,FALSE,'Daily',1,2436198.41,Non-Recyclable
+2013,69.85737755,Autoinjector,Type1 Plastic,959346.4086,1,FALSE,'Weekly',1,1472077.225,Non-Recyclable
+2027,227.5287302,Pen,Type1 Plastic,2019202.626,0,FALSE,'Daily',1,3281448.187,Non-Recyclable
+2025,85.92560351,Autoinjector,Type2 Plastic,953016.2921,0,FALSE,'Monthly',0,1232556.364,Non-Recyclable
+2025,643.9871108,Autoinjector,Type1 Plastic,1594090.213,0,FALSE,'Weekly',1,2067070.59,Non-Recyclable
+2018,114.5708769,Autoinjector,Type1 Plastic,1352006.696,0,FALSE,'Weekly',1,1990963.245,Non-Recyclable
+2012,63.87814641,Patch Injector,Type2 Plastic,992018.4425,1,FALSE,'Daily',1,1513428.811,Non-Recyclable
+2029,996.9155166,Patch Injector,Recyclable Plastic,1025183.86,0,TRUE,'Weekly',1,708445.8476,Recyclable
+2022,319.7327178,Autoinjector,Type2 Plastic,213002.708,0,FALSE,'Monthly',1,286341.111,Non-Recyclable
+2017,95.30395,Autoinjector,Recyclable Plastic,474863.2097,0,TRUE,'Monthly',1,302591.0678,Recyclable
+2020,150.5880644,Pen,Type2 Plastic,1202998.445,1,FALSE,'Weekly',1,1640530.25,Non-Recyclable
+2012,55.86813383,Patch Injector,Type1 Plastic,873322.9692,0,FALSE,'Monthly',1,1200202.966,Non-Recyclable
+2020,132.7476505,Patch Injector,Recyclable Plastic,1345328.092,0,TRUE,'Daily',1,1022067.151,Recyclable
+2022,171.957923,Pen,Type1 Plastic,282389.6968,0,FALSE,'Weekly',1,435444.877,Non-Recyclable
+2016,115.8854094,Pen,Recyclable Plastic,61555.23158,0,TRUE,'Yearly',1,39889.51842,Recyclable
+2014,76.09450216,Autoinjector,Recyclable Plastic,757455.6171,0,TRUE,'Monthly',1,493252.7361,Recyclable
+2018,112.1901394,Autoinjector,Type2 Plastic,1353107.402,1,FALSE,'Yearly',1,1734790.048,Non-Recyclable
+2010,50,Pen,Recyclable Plastic,930894,0,TRUE,'Monthly',1,653820.9155,Recyclable
+2015,56.04937527,Autoinjector,Recyclable Plastic,1077595.953,0,TRUE,'Weekly',1,799481.4419,Recyclable
+2011,59.34025093,Pen,Type2 Plastic,979543.29,0,FALSE,'Yearly',1,1429314.383,Non-Recyclable
+2016,89.95623485,Autoinjector,Type2 Plastic,60258.1805,1,FALSE,'Monthly',0,79996.41808,Non-Recyclable
+2028,99.38834287,Pen,Recyclable Plastic,1861018.802,0,TRUE,'Weekly',1,1358378.154,Recyclable
+2016,56.21612945,Patch Injector,Type2 Plastic,649491.8192,0,FALSE,'Monthly',1,871091.4399,Non-Recyclable
+2028,656.8163225,Pen,Type1 Plastic,756055.0378,0,FALSE,'Monthly',1,1069329.423,Non-Recyclable
+2029,148.2421265,Pen,Type2 Plastic,1721199.912,0,FALSE,'Daily',1,2139070.733,Non-Recyclable
+2025,91.26955462,Patch Injector,Type2 Plastic,1513243.789,0,FALSE,'Monthly',1,2246131.843,Non-Recyclable
+2027,186.5125128,Patch Injector,Type2 Plastic,1346897.308,0,FALSE,'Monthly',1,2287468.477,Non-Recyclable
+2018,201.6468931,Patch Injector,Type2 Plastic,161101.2458,0,FALSE,'Daily',1,203099.7224,Non-Recyclable
+2012,56.0388691,Patch Injector,Recyclable Plastic,793274.2606,0,TRUE,'Monthly',1,605735.5827,Recyclable
+2020,88.19691176,Autoinjector,Type2 Plastic,875102.9281,1,FALSE,'Weekly',1,1092351.635,Non-Recyclable
+2020,79.32314767,Patch Injector,Type2 Plastic,1462760.534,0,FALSE,'Weekly',1,1942406.979,Non-Recyclable
+2015,99.39540239,Patch Injector,Recyclable Plastic,13144.72708,0,TRUE,'Yearly',1,8035.837968,Recyclable
+2018,93.67885238,Autoinjector,Type1 Plastic,1284161.12,0,FALSE,'Yearly',1,1936108.92,Non-Recyclable
+2013,82.8197218,Patch Injector,Type1 Plastic,58060.25011,0,FALSE,'Monthly',0,90458.56864,Non-Recyclable
+2025,714.3731803,Autoinjector,Recyclable Plastic,172592.3588,0,TRUE,'Weekly',1,118184.8234,Recyclable
+2015,104.0935738,Patch Injector,Type1 Plastic,19692.16698,0,FALSE,'Monthly',1,31734.19413,Non-Recyclable
+2020,52.71202586,Patch Injector,Recyclable Plastic,964361.3985,0,TRUE,'Yearly',0,656064.0496,Recyclable
+2021,229.9049024,Pen,Recyclable Plastic,695715.4778,0,TRUE,'Daily',1,502981.8921,Recyclable
+2029,983.0910615,Pen,Recyclable Plastic,138926.2671,0,TRUE,'Weekly',1,92857.16386,Recyclable
+2017,53.33261383,Pen,Type2 Plastic,597415.6219,0,FALSE,'Weekly',1,829919.6742,Non-Recyclable
+2010,50,Pen,Recyclable Plastic,414086,0,TRUE,'Daily',1,292431.9736,Recyclable
+2029,429.1033718,Patch Injector,Type1 Plastic,1144352.535,0,FALSE,'Daily',1,1623895.245,Non-Recyclable
+2016,88.43698381,Autoinjector,Type1 Plastic,866971.8646,0,FALSE,'Monthly',0,1213596.103,Non-Recyclable
+2021,54.16744955,Patch Injector,Recyclable Plastic,1021204.622,0,TRUE,'Yearly',1,741779.5426,Recyclable
+2020,67.17065392,Pen,Recyclable Plastic,608586.9748,0,TRUE,'Weekly',1,444904.8236,Recyclable
+2029,91.87960945,Pen,Type2 Plastic,177363.6806,0,FALSE,'Weekly',1,236167.7776,Non-Recyclable
+2012,57.38449677,Patch Injector,Recyclable Plastic,648721.8193,0,TRUE,'Monthly',1,397832.2098,Recyclable
+2011,59.18723311,Patch Injector,Type2 Plastic,748072.655,0,FALSE,'Monthly',1,894499.2311,Non-Recyclable
+2021,53.1902167,Pen,Type1 Plastic,101819.4229,0,FALSE,'Monthly',1,165723.8123,Non-Recyclable
+2014,93.70393112,Patch Injector,Type2 Plastic,466082.7773,1,FALSE,'Yearly',0,739318.6639,Non-Recyclable
+2011,59.91145306,Pen,Type2 Plastic,285335.16,1,FALSE,'Monthly',1,399139.609,Non-Recyclable
+2029,154.7931613,Autoinjector,Type1 Plastic,748596.0333,0,FALSE,'Weekly',1,942140.8111,Non-Recyclable
+2025,80.74958105,Patch Injector,Recyclable Plastic,1867139.213,0,TRUE,'Yearly',1,1233617.97,Recyclable
+2014,63.47262535,Pen,Recyclable Plastic,924095.7813,0,TRUE,'Monthly',1,615628.3747,Recyclable
+2025,177.2867434,Autoinjector,Type1 Plastic,1906487.376,0,FALSE,'Weekly',1,2511513.254,Non-Recyclable
+2020,181.5122081,Patch Injector,Type1 Plastic,1305171.409,0,FALSE,'Weekly',1,2081471.268,Non-Recyclable
+2016,54.28548584,Patch Injector,Recyclable Plastic,594992.233,0,TRUE,'Weekly',0,454329.1814,Recyclable
+2022,255.7928066,Autoinjector,Type1 Plastic,67012.75482,0,FALSE,'Daily',0,98791.37215,Non-Recyclable
+2013,59.30842404,Pen,Type2 Plastic,844021.3012,1,FALSE,'Yearly',1,1403530.189,Non-Recyclable
+2022,421.4526379,Autoinjector,Type1 Plastic,1529334.005,0,FALSE,'Daily',1,2367751.319,Non-Recyclable
+2030,565.4720878,Autoinjector,Type2 Plastic,1744744.864,0,FALSE,'Yearly',1,2384360.898,Non-Recyclable
+2017,74.05346101,Autoinjector,Recyclable Plastic,266723.4753,0,TRUE,'Monthly',1,206955.8508,Recyclable
+2016,117.9744161,Pen,Type2 Plastic,370594.5818,1,FALSE,'Daily',1,442027.6071,Non-Recyclable
+2015,116.233034,Pen,Type2 Plastic,1197491.117,0,FALSE,'Monthly',1,1569467.686,Non-Recyclable
+2026,159.2324091,Autoinjector,Recyclable Plastic,388252.5996,0,TRUE,'Monthly',1,256110.5058,Recyclable
+2022,144.2125336,Autoinjector,Type2 Plastic,244111.957,0,FALSE,'Monthly',1,372003.6499,Non-Recyclable
+2017,116.8310703,Autoinjector,Type2 Plastic,796776.4366,0,FALSE,'Daily',1,1039465.671,Non-Recyclable
+2017,148.0518105,Patch Injector,Recyclable Plastic,1181892.169,0,TRUE,'Yearly',1,866268.7643,Recyclable
+2013,63.02158049,Pen,Recyclable Plastic,585355.458,0,TRUE,'Daily',0,451962.52,Recyclable
+2021,169.9680252,Autoinjector,Recyclable Plastic,1425196.036,0,TRUE,'Weekly',1,1025911.999,Recyclable
+2028,445.6971822,Pen,Type2 Plastic,514591.0119,0,FALSE,'Daily',0,685120.5134,Non-Recyclable
+2025,69.92106279,Pen,Recyclable Plastic,1052826.549,0,TRUE,'Monthly',1,725236.0366,Recyclable
+2010,50,Patch Injector,Type2 Plastic,463812,0,FALSE,'Daily',1,620936.9608,Non-Recyclable
+2016,114.2814506,Pen,Type2 Plastic,193556.2246,0,FALSE,'Daily',1,233239.4567,Non-Recyclable
+2020,89.39690329,Autoinjector,Type2 Plastic,1366495.065,0,FALSE,'Monthly',0,2032950.451,Non-Recyclable
+2019,146.0106481,Autoinjector,Recyclable Plastic,215751.2925,0,TRUE,'Weekly',1,169587.4339,Recyclable
+2014,82.66942222,Patch Injector,Recyclable Plastic,239183.4557,1,TRUE,'Daily',1,202958.3142,Recyclable
+2025,734.2389934,Autoinjector,Recyclable Plastic,1342904.099,0,TRUE,'Monthly',1,916470.0849,Recyclable
+2010,50,Pen,Recyclable Plastic,991726,0,TRUE,'Yearly',1,748468.3078,Recyclable
+2020,255.0320495,Patch Injector,Type2 Plastic,260521.4913,0,FALSE,'Monthly',0,379814.4084,Non-Recyclable
+2010,50,Pen,Type1 Plastic,737428,0,FALSE,'Monthly',1,991280.3125,Non-Recyclable
+2018,95.17867222,Autoinjector,Type2 Plastic,233334.0023,0,FALSE,'Weekly',1,294347.8239,Non-Recyclable
+2017,66.95568158,Autoinjector,Recyclable Plastic,946582.8286,0,TRUE,'Daily',1,603358.6739,Recyclable
+2019,57.36702034,Patch Injector,Recyclable Plastic,842239.9625,0,TRUE,'Weekly',0,537945.1702,Recyclable
+2023,199.7846078,Pen,Type1 Plastic,165035.7616,0,FALSE,'Monthly',1,234042.3931,Non-Recyclable
+2019,221.6753304,Patch Injector,Type2 Plastic,1309179.972,0,FALSE,'Monthly',1,1600552.906,Non-Recyclable
+2011,54.94600901,Pen,Recyclable Plastic,995526.565,0,TRUE,'Monthly',1,783702.452,Recyclable
+2011,59.58113441,Pen,Type2 Plastic,350698.865,0,FALSE,'Monthly',1,439445.1363,Non-Recyclable
+2015,103.8332924,Patch Injector,Recyclable Plastic,137066.3051,0,TRUE,'Weekly',1,102069.5209,Recyclable
+2027,675.2004739,Autoinjector,Recyclable Plastic,1054570.801,0,TRUE,'Monthly',1,760346.8725,Recyclable
+2028,66.03498798,Autoinjector,Type1 Plastic,285390.6686,1,FALSE,'Monthly',1,414915.5605,Non-Recyclable
+2027,1079.075889,Pen,Recyclable Plastic,669695.297,0,TRUE,'Weekly',1,481504.5747,Recyclable
+2013,83.36002215,Patch Injector,Type1 Plastic,908012.1917,1,FALSE,'Weekly',0,1431551.002,Non-Recyclable
+2025,119.1022079,Patch Injector,Type2 Plastic,1843097.199,1,FALSE,'Monthly',1,2521180.866,Non-Recyclable
+2027,417.0789681,Patch Injector,Recyclable Plastic,601980.5907,1,TRUE,'Monthly',1,454138.1775,Recyclable
+2018,54.88337719,Pen,Recyclable Plastic,567965.6533,0,TRUE,'Weekly',1,372357.8174,Recyclable
+2015,64.90714874,Autoinjector,Type2 Plastic,1235399.972,0,FALSE,'Monthly',0,1755225.062,Non-Recyclable
+2023,292.6504479,Autoinjector,Type1 Plastic,794259.3025,1,FALSE,'Monthly',1,1134239.4,Non-Recyclable
+2026,824.699367,Pen,Type2 Plastic,301139.0053,0,FALSE,'Monthly',1,424527.0582,Non-Recyclable
+2030,233.869193,Autoinjector,Recyclable Plastic,1151113.516,0,TRUE,'Daily',1,832442.9713,Recyclable
+2018,53.11870958,Patch Injector,Type1 Plastic,37014.43475,0,FALSE,'Weekly',1,54273.44042,Non-Recyclable
+2014,80.82771678,Autoinjector,Recyclable Plastic,169033.549,0,TRUE,'Monthly',1,117547.6614,Recyclable
+2016,78.04184116,Pen,Type2 Plastic,1087621.611,0,FALSE,'Monthly',1,1517648.116,Non-Recyclable
+2030,197.9125136,Autoinjector,Recyclable Plastic,2211792.579,0,TRUE,'Monthly',1,1419012.001,Recyclable
+2018,154.876758,Patch Injector,Recyclable Plastic,844498.8058,1,TRUE,'Weekly',1,679440.1723,Recyclable
+2022,51.94804417,Pen,Recyclable Plastic,301510.7599,0,TRUE,'Weekly',1,228551.2787,Recyclable
+2018,108.1281029,Pen,Type1 Plastic,308638.496,0,FALSE,'Monthly',1,493069.3679,Non-Recyclable
+2013,55.80298611,Autoinjector,Recyclable Plastic,451210.2388,0,TRUE,'Monthly',1,295876.139,Recyclable
+2028,1223.616766,Patch Injector,Recyclable Plastic,1917701.618,0,TRUE,'Monthly',0,1532227.483,Recyclable
+2021,354.3079741,Patch Injector,Recyclable Plastic,1268342.421,0,TRUE,'Daily',1,990079.4626,Recyclable
+2015,89.40113778,Autoinjector,Type2 Plastic,962378.9555,0,FALSE,'Yearly',0,1319013.899,Non-Recyclable
+2014,63.97916377,Patch Injector,Type2 Plastic,279248.5032,0,FALSE,'Monthly',1,402771.8848,Non-Recyclable
+2013,78.33878731,Patch Injector,Type1 Plastic,850836.3453,0,FALSE,'Monthly',1,1149954.721,Non-Recyclable
+2019,152.0813223,Patch Injector,Type1 Plastic,1201968.611,1,FALSE,'Daily',1,1584957.384,Non-Recyclable
+2018,59.31839215,Pen,Type2 Plastic,805031.2475,0,FALSE,'Monthly',1,1116193.684,Non-Recyclable
+2027,183.6359267,Pen,Recyclable Plastic,1274938.941,0,TRUE,'Monthly',1,889827.4752,Recyclable
+2022,257.6974853,Autoinjector,Type2 Plastic,1565118.799,0,FALSE,'Weekly',1,2350666.982,Non-Recyclable
+2010,50,Patch Injector,Type2 Plastic,418380,0,FALSE,'Monthly',1,607271.1331,Non-Recyclable
+2016,140.0729951,Pen,Type1 Plastic,63371.88446,0,FALSE,'Daily',1,74532.06604,Non-Recyclable
+2012,57.71187464,Patch Injector,Recyclable Plastic,946934.1904,0,TRUE,'Weekly',1,638654.8289,Recyclable
+2015,70.7108743,Pen,Type2 Plastic,1195143.31,0,FALSE,'Monthly',1,1556627.062,Non-Recyclable
+2021,355.8855068,Patch Injector,Type2 Plastic,1471080.583,0,FALSE,'Monthly',1,1996718.734,Non-Recyclable
+2025,96.81355988,Pen,Recyclable Plastic,968831.4202,1,TRUE,'Daily',1,704529.1637,Recyclable
+2028,743.0922433,Autoinjector,Recyclable Plastic,1449811.098,0,TRUE,'Daily',1,968069.4546,Recyclable
+2018,96.91452066,Patch Injector,Type1 Plastic,434019.4186,0,FALSE,'Daily',1,661447.8772,Non-Recyclable
+2021,66.44628591,Pen,Type2 Plastic,1539787.313,1,FALSE,'Monthly',1,1868270.069,Non-Recyclable
+2016,148.3932084,Patch Injector,Recyclable Plastic,517044.1509,0,TRUE,'Weekly',1,369534.171,Recyclable
+2024,275.2177341,Patch Injector,Recyclable Plastic,373250.2392,1,TRUE,'Monthly',1,251545.0019,Recyclable
+2020,301.1905797,Pen,Type2 Plastic,85273.55095,1,FALSE,'Monthly',1,131116.4296,Non-Recyclable
+2012,52.15557756,Autoinjector,Type1 Plastic,512627.1117,0,FALSE,'Monthly',0,684466.4763,Non-Recyclable
+2016,122.3344376,Autoinjector,Recyclable Plastic,906987.7137,1,TRUE,'Monthly',1,719229.9926,Recyclable
+2015,77.56088663,Patch Injector,Type1 Plastic,677020.7384,0,FALSE,'Daily',1,982252.6793,Non-Recyclable
+2013,64.37056906,Patch Injector,Type2 Plastic,56568.74598,0,FALSE,'Weekly',1,86054.4813,Non-Recyclable
+2013,80.44350997,Pen,Recyclable Plastic,901109.2778,0,TRUE,'Daily',0,657803.096,Recyclable
+2026,336.9446634,Patch Injector,Type1 Plastic,1114940.755,0,FALSE,'Weekly',0,1472070.112,Non-Recyclable
+2018,55.89904521,Patch Injector,Recyclable Plastic,1132408.763,0,TRUE,'Monthly',1,750617.2165,Recyclable
+2021,68.30575576,Patch Injector,Recyclable Plastic,1273326.202,0,TRUE,'Monthly',1,815813.3452,Recyclable
+2019,145.7864981,Autoinjector,Type1 Plastic,337013.6838,1,FALSE,'Monthly',1,436779.842,Non-Recyclable
+2015,70.49713552,Pen,Recyclable Plastic,788552.7756,0,TRUE,'Yearly',1,553543.2847,Recyclable
+2017,67.95590466,Patch Injector,Type1 Plastic,167992.9495,0,FALSE,'Monthly',1,235219.8493,Non-Recyclable
+2022,209.6723885,Autoinjector,Recyclable Plastic,472136.7826,1,TRUE,'Daily',1,334618.6027,Recyclable
+2018,52.2055419,Patch Injector,Recyclable Plastic,1061552.6,0,TRUE,'Weekly',1,702797.1081,Recyclable
+2015,50.82438173,Pen,Type1 Plastic,156512.9743,0,FALSE,'Monthly',1,195296.6036,Non-Recyclable
+2022,173.0003717,Autoinjector,Type1 Plastic,141277.0986,1,FALSE,'Monthly',1,196377.2979,Non-Recyclable
+2029,310.5712539,Pen,Type1 Plastic,1494415.711,0,FALSE,'Monthly',1,1887135.534,Non-Recyclable
+2029,55.14114795,Pen,Recyclable Plastic,1614274.436,0,TRUE,'Monthly',1,1174386.009,Recyclable
+2018,90.19022124,Patch Injector,Type1 Plastic,424910.8642,0,FALSE,'Monthly',1,568165.394,Non-Recyclable
+2024,97.72911362,Patch Injector,Type2 Plastic,1638889.77,0,FALSE,'Weekly',1,2096966.265,Non-Recyclable
+2023,181.5966471,Autoinjector,Type2 Plastic,1225337.142,0,FALSE,'Monthly',1,1823973.199,Non-Recyclable
+2016,65.19486347,Pen,Type1 Plastic,567505.4285,0,FALSE,'Daily',1,869216.0148,Non-Recyclable
+2017,109.4398669,Autoinjector,Recyclable Plastic,919488.0695,0,TRUE,'Yearly',1,662146.7865,Recyclable
+2018,90.62022744,Patch Injector,Type1 Plastic,825023.1379,0,FALSE,'Weekly',1,1081170.571,Non-Recyclable
+2018,73.17240207,Autoinjector,Type1 Plastic,15368.64132,0,FALSE,'Monthly',1,20766.51762,Non-Recyclable
+2022,148.8572667,Patch Injector,Type2 Plastic,1023327.078,0,FALSE,'Monthly',1,1450993.977,Non-Recyclable
+2030,52.20960914,Autoinjector,Recyclable Plastic,651030.1424,0,TRUE,'Monthly',1,478711.2145,Recyclable
+2017,137.0420449,Patch Injector,Recyclable Plastic,598689.3885,1,TRUE,'Yearly',1,418700.7323,Recyclable
+2022,72.0241433,Patch Injector,Recyclable Plastic,1038418.727,0,TRUE,'Monthly',1,638330.6275,Recyclable
+2027,421.916166,Patch Injector,Type1 Plastic,373962.0265,0,FALSE,'Monthly',1,526358.7149,Non-Recyclable
+2023,109.0390771,Pen,Recyclable Plastic,103762.0815,0,TRUE,'Monthly',1,74406.48372,Recyclable
+2021,330.6246285,Pen,Type1 Plastic,633209.6699,1,FALSE,'Monthly',1,802937.3747,Non-Recyclable
+2027,62.98737478,Pen,Type2 Plastic,948248.9275,0,FALSE,'Weekly',1,1453638.35,Non-Recyclable
+2029,396.5385416,Autoinjector,Type2 Plastic,1763016.033,0,FALSE,'Monthly',1,2492877.037,Non-Recyclable
+2028,350.2861339,Patch Injector,Type2 Plastic,1453830.53,0,FALSE,'Monthly',0,2135118.496,Non-Recyclable
+2030,319.9817938,Pen,Recyclable Plastic,2176755.198,1,TRUE,'Monthly',1,1301832.604,Recyclable
+2021,124.2804,Pen,Type2 Plastic,902332.2591,0,FALSE,'Yearly',0,1249979.193,Non-Recyclable
+2013,65.18101856,Patch Injector,Type1 Plastic,522359.6644,0,FALSE,'Monthly',1,664203.6434,Non-Recyclable
+2016,141.9673345,Autoinjector,Type2 Plastic,333309.5722,0,FALSE,'Daily',1,524932.0561,Non-Recyclable
+2018,102.7939194,Autoinjector,Type1 Plastic,1119154.786,0,FALSE,'Monthly',1,1788782.288,Non-Recyclable
+2011,58.43498665,Pen,Type2 Plastic,264216.755,0,FALSE,'Monthly',1,339387.8214,Non-Recyclable
+2012,55.41406032,Pen,Type2 Plastic,865649.3095,1,FALSE,'Weekly',1,1318585.016,Non-Recyclable
+2020,106.8845777,Pen,Recyclable Plastic,414919.2642,1,TRUE,'Monthly',1,301665.0705,Recyclable
+2018,65.22802072,Autoinjector,Type1 Plastic,799770.8974,0,FALSE,'Monthly',1,1144704.251,Non-Recyclable
+2028,106.865921,Autoinjector,Recyclable Plastic,710898.2725,0,TRUE,'Daily',1,448002.7406,Recyclable
+2016,109.8122627,Autoinjector,Recyclable Plastic,878281.9937,0,TRUE,'Weekly',1,625904.4253,Recyclable
+2022,167.7209416,Autoinjector,Type2 Plastic,760726.6219,0,FALSE,'Yearly',1,1157278.809,Non-Recyclable
+2024,206.7566974,Pen,Recyclable Plastic,1138810.935,1,TRUE,'Monthly',0,931880.4007,Recyclable
+2026,700.6549272,Pen,Recyclable Plastic,2006688.695,1,TRUE,'Weekly',0,1326156.853,Recyclable
+2030,197.5120654,Patch Injector,Recyclable Plastic,1811105.588,1,TRUE,'Monthly',1,1340226.654,Recyclable
+2016,124.9760112,Autoinjector,Type2 Plastic,152050.5899,0,FALSE,'Monthly',1,186032.6428,Non-Recyclable
+2011,57.40190728,Pen,Type2 Plastic,563227.83,0,FALSE,'Daily',1,891937.5389,Non-Recyclable
+2011,56.74395663,Patch Injector,Recyclable Plastic,604557.58,0,TRUE,'Yearly',1,419804.9974,Recyclable
+2028,666.4179655,Pen,Type1 Plastic,587048.9918,0,FALSE,'Monthly',1,807299.7835,Non-Recyclable
+2021,138.9663123,Pen,Recyclable Plastic,164852.6581,0,TRUE,'Weekly',1,113433.5439,Recyclable
+2024,109.0337171,Pen,Type1 Plastic,1049574.969,0,FALSE,'Daily',1,1406563.365,Non-Recyclable
+2027,716.2461193,Autoinjector,Recyclable Plastic,399607.8541,1,TRUE,'Monthly',1,309875.3017,Recyclable
+2014,57.98280482,Autoinjector,Type2 Plastic,407470.4881,0,FALSE,'Monthly',0,559410.479,Non-Recyclable
+2014,69.65640415,Patch Injector,Type2 Plastic,738663.909,1,FALSE,'Daily',0,1050024.669,Non-Recyclable
+2018,83.68021077,Patch Injector,Type2 Plastic,949107.1048,0,FALSE,'Weekly',0,1213436.135,Non-Recyclable
+2011,53.75946661,Patch Injector,Type2 Plastic,897523.33,0,FALSE,'Weekly',1,1286746.869,Non-Recyclable
+2011,55.60418634,Pen,Type2 Plastic,295045.3,0,FALSE,'Weekly',1,402880.3752,Non-Recyclable
+2021,302.5618884,Patch Injector,Recyclable Plastic,727516.9061,0,TRUE,'Yearly',1,509377.5026,Recyclable
+2017,62.02459269,Pen,Type1 Plastic,544767.9602,0,FALSE,'Yearly',1,835684.0639,Non-Recyclable
+2028,508.3473672,Patch Injector,Recyclable Plastic,1983927.271,0,TRUE,'Weekly',1,1328575.911,Recyclable
+2027,504.3723476,Autoinjector,Type1 Plastic,1611511.105,0,FALSE,'Yearly',1,2373103.036,Non-Recyclable
+2012,60.23729193,Patch Injector,Type2 Plastic,830445.6996,0,FALSE,'Daily',1,1301258.332,Non-Recyclable
+2013,67.12777803,Pen,Recyclable Plastic,168462.3669,0,TRUE,'Monthly',1,129851.0947,Recyclable
+2025,92.51769604,Autoinjector,Type1 Plastic,1446906.177,0,FALSE,'Monthly',1,1933000.578,Non-Recyclable
+2027,100.3760872,Pen,Type2 Plastic,1117589.584,0,FALSE,'Weekly',1,1440538.758,Non-Recyclable
+2014,52.13979653,Patch Injector,Recyclable Plastic,408599.8032,0,TRUE,'Daily',1,293642.2813,Recyclable
+2028,912.0798377,Patch Injector,Recyclable Plastic,1042812.755,1,TRUE,'Monthly',1,758699.3109,Recyclable
+2013,82.71814587,Autoinjector,Type2 Plastic,601235.9258,0,FALSE,'Monthly',1,757244.7034,Non-Recyclable
+2011,53.72987601,Autoinjector,Type1 Plastic,961905.78,0,FALSE,'Daily',1,1381011.836,Non-Recyclable
+2030,339.7247499,Autoinjector,Recyclable Plastic,249950.0415,0,TRUE,'Weekly',0,173470.1301,Recyclable
+2022,164.6056135,Pen,Type1 Plastic,926265.0004,0,FALSE,'Monthly',1,1374600.175,Non-Recyclable
+2010,50,Autoinjector,Recyclable Plastic,271944,0,TRUE,'Monthly',1,223209.9865,Recyclable
+2011,55.32345178,Autoinjector,Type2 Plastic,524041.375,0,FALSE,'Monthly',1,797539.44,Non-Recyclable
+2013,83.91303008,Pen,Type2 Plastic,730066.7343,0,FALSE,'Monthly',0,906674.3832,Non-Recyclable
+2012,62.28000023,Patch Injector,Type1 Plastic,903932.4299,0,FALSE,'Yearly',0,1476524.548,Non-Recyclable
+2021,359.1387633,Patch Injector,Type2 Plastic,596176.1634,0,FALSE,'Monthly',1,787549.3912,Non-Recyclable
+2030,110.1849294,Autoinjector,Recyclable Plastic,1814807.569,0,TRUE,'Yearly',1,1264048.688,Recyclable
+2016,58.10086468,Autoinjector,Type1 Plastic,789374.0905,0,FALSE,'Monthly',1,1179999.256,Non-Recyclable
+2026,787.2965242,Patch Injector,Type1 Plastic,516177.6236,0,FALSE,'Monthly',1,671307.7065,Non-Recyclable
+2020,279.1197869,Patch Injector,Type2 Plastic,980066.5783,0,FALSE,'Monthly',1,1400296.664,Non-Recyclable
+2017,134.7228152,Patch Injector,Type1 Plastic,52770.1392,0,FALSE,'Weekly',1,74459.63962,Non-Recyclable
+2026,709.3713808,Patch Injector,Recyclable Plastic,1137908.813,1,TRUE,'Weekly',1,855132.2956,Recyclable
+2028,130.5252114,Autoinjector,Recyclable Plastic,1364517.44,0,TRUE,'Monthly',1,837664.2952,Recyclable
+2019,238.5097261,Autoinjector,Recyclable Plastic,272047.5486,0,TRUE,'Yearly',1,194277.2609,Recyclable
+2020,79.87649432,Patch Injector,Type2 Plastic,159746.1996,0,FALSE,'Monthly',1,252463.7776,Non-Recyclable
+2021,95.37505768,Autoinjector,Recyclable Plastic,1401951.912,0,TRUE,'Daily',1,1030578.907,Recyclable
+2015,109.3425447,Autoinjector,Recyclable Plastic,114401.9942,0,TRUE,'Yearly',1,87089.44924,Recyclable
+2011,55.30545436,Patch Injector,Recyclable Plastic,936254.165,1,TRUE,'Yearly',1,685713.7099,Recyclable
+2012,58.31567147,Autoinjector,Type1 Plastic,522768.7479,0,FALSE,'Daily',1,656698.067,Non-Recyclable
+2015,64.2328359,Patch Injector,Recyclable Plastic,958784.9668,0,TRUE,'Monthly',0,694447.115,Recyclable
+2017,107.8932479,Autoinjector,Recyclable Plastic,234766.357,0,TRUE,'Daily',1,161758.6924,Recyclable
+2013,72.60148852,Patch Injector,Recyclable Plastic,879491.0267,0,TRUE,'Daily',1,649357.4363,Recyclable
+2021,55.75733659,Patch Injector,Recyclable Plastic,737774.9602,0,TRUE,'Yearly',1,494863.7783,Recyclable
+2012,70.7067913,Patch Injector,Type1 Plastic,214796.9494,0,FALSE,'Monthly',1,288679.4359,Non-Recyclable
+2018,90.597115,Autoinjector,Type2 Plastic,1224228.111,0,FALSE,'Daily',1,1604920.449,Non-Recyclable
+2024,110.9066819,Pen,Recyclable Plastic,1196882.372,0,TRUE,'Yearly',1,886731.9069,Recyclable
+2026,149.643368,Patch Injector,Type2 Plastic,778337.4666,0,FALSE,'Monthly',0,1034950.396,Non-Recyclable
+2016,105.0427598,Patch Injector,Type1 Plastic,524887.6637,1,FALSE,'Daily',0,702697.1707,Non-Recyclable
+2025,97.33269236,Patch Injector,Recyclable Plastic,1209423.798,0,TRUE,'Yearly',1,747522.2324,Recyclable
+2018,53.03430578,Autoinjector,Recyclable Plastic,847115.471,0,TRUE,'Weekly',1,622065.0494,Recyclable
+2018,60.26612311,Pen,Type2 Plastic,107842.1558,0,FALSE,'Monthly',1,137364.7713,Non-Recyclable
+2010,50,Patch Injector,Type2 Plastic,437329,0,FALSE,'Weekly',1,675658.8346,Non-Recyclable
+2015,67.14523003,Autoinjector,Type1 Plastic,355229.1461,0,FALSE,'Monthly',1,518493.588,Non-Recyclable
+2029,117.8377688,Patch Injector,Type1 Plastic,457311.752,0,FALSE,'Monthly',1,625658.0734,Non-Recyclable
+2029,538.8912227,Autoinjector,Recyclable Plastic,1708762.853,0,TRUE,'Monthly',0,1071395.469,Recyclable
+2027,110.2744508,Patch Injector,Type1 Plastic,1562884.418,0,FALSE,'Weekly',1,1945932.136,Non-Recyclable
+2021,330.4078883,Patch Injector,Type1 Plastic,1223514.351,0,FALSE,'Daily',1,1650285.342,Non-Recyclable
+2029,406.8433969,Autoinjector,Type1 Plastic,929151.4847,0,FALSE,'Monthly',1,1197861.707,Non-Recyclable
+2016,79.75045685,Patch Injector,Type2 Plastic,685633.4444,0,FALSE,'Monthly',0,892543.8459,Non-Recyclable
+2015,84.42260886,Patch Injector,Type2 Plastic,118514.3946,0,FALSE,'Yearly',1,181386.081,Non-Recyclable
+2010,50,Pen,Recyclable Plastic,86110,0,TRUE,'Monthly',1,61823.93498,Recyclable
+2022,114.2908792,Patch Injector,Recyclable Plastic,1279316.989,0,TRUE,'Weekly',1,839393.3226,Recyclable
+2018,87.68289686,Patch Injector,Type1 Plastic,1357818.821,0,FALSE,'Monthly',0,2059842.583,Non-Recyclable
+2027,99.51515852,Autoinjector,Type2 Plastic,297231.6547,0,FALSE,'Yearly',0,425864.1554,Non-Recyclable
+2011,57.53092463,Autoinjector,Type2 Plastic,256338.5,0,FALSE,'Monthly',1,304843.8215,Non-Recyclable
+2013,66.9727145,Autoinjector,Recyclable Plastic,1110274.758,1,TRUE,'Daily',0,825407.9899,Recyclable
+2029,268.9658453,Patch Injector,Recyclable Plastic,1076079.104,0,TRUE,'Daily',1,734772.1697,Recyclable
+2018,132.8233647,Pen,Recyclable Plastic,1075068.244,0,TRUE,'Monthly',1,759568.7295,Recyclable
+2024,230.8798043,Pen,Type1 Plastic,1216079.633,0,FALSE,'Monthly',1,1951463.42,Non-Recyclable
+2011,52.53238177,Autoinjector,Type1 Plastic,970535.39,1,FALSE,'Yearly',1,1332481.324,Non-Recyclable
+2015,82.98651082,Pen,Recyclable Plastic,499862.2679,1,TRUE,'Weekly',1,346844.9184,Recyclable
+2020,232.5139896,Autoinjector,Type1 Plastic,408758.6345,0,FALSE,'Weekly',1,629733.9927,Non-Recyclable
+2022,373.0372216,Pen,Type2 Plastic,633769.5461,0,FALSE,'Monthly',1,845767.5354,Non-Recyclable
+2030,321.4947763,Pen,Recyclable Plastic,1286700.078,0,TRUE,'Monthly',1,849072.4522,Recyclable
+2020,185.0843372,Patch Injector,Type1 Plastic,816569.9576,0,FALSE,'Monthly',0,1240203.538,Non-Recyclable
+2024,77.09982571,Patch Injector,Recyclable Plastic,571412.0497,0,TRUE,'Monthly',1,332960.7014,Recyclable
+2026,347.0980501,Patch Injector,Type2 Plastic,1211589.824,0,FALSE,'Weekly',1,1743250.672,Non-Recyclable
+2022,89.35687697,Pen,Recyclable Plastic,488610.5749,0,TRUE,'Daily',0,338747.3003,Recyclable
+2030,429.4553274,Pen,Recyclable Plastic,918727.9875,0,TRUE,'Weekly',1,726151.0631,Recyclable
+2018,119.7528656,Autoinjector,Type2 Plastic,128070.1149,0,FALSE,'Monthly',1,170798.4494,Non-Recyclable
+2030,372.9840263,Patch Injector,Type2 Plastic,1008576.393,0,FALSE,'Weekly',1,1477943.149,Non-Recyclable
+2026,50.37314703,Pen,Recyclable Plastic,1020307.988,0,TRUE,'Weekly',1,774872.0498,Recyclable
+2010,50,Autoinjector,Type2 Plastic,302745,0,FALSE,'Monthly',1,367935.9676,Non-Recyclable
+2029,935.2993535,Pen,Type1 Plastic,1111403.213,0,FALSE,'Monthly',1,1430240.971,Non-Recyclable
+2015,73.95696981,Autoinjector,Type1 Plastic,327607.5234,0,FALSE,'Weekly',1,452510.218,Non-Recyclable
+2025,397.9803701,Autoinjector,Type1 Plastic,990707.853,0,FALSE,'Weekly',1,1350814.029,Non-Recyclable
+2017,151.5369778,Autoinjector,Type1 Plastic,301380.5436,1,FALSE,'Daily',1,404167.4709,Non-Recyclable
+2019,133.4097194,Autoinjector,Recyclable Plastic,849503.9956,0,TRUE,'Daily',1,611802.5038,Recyclable
+2016,124.0572523,Patch Injector,Type1 Plastic,457976.2362,0,FALSE,'Monthly',1,575654.1637,Non-Recyclable
+2019,59.94965184,Pen,Type1 Plastic,657411.3377,1,FALSE,'Daily',1,919522.5963,Non-Recyclable
+2010,50,Pen,Type1 Plastic,523917,0,FALSE,'Yearly',1,680535.7018,Non-Recyclable
+2015,74.59243858,Pen,Type2 Plastic,31184.45681,0,FALSE,'Weekly',1,49746.89142,Non-Recyclable
+2019,65.33038744,Pen,Type2 Plastic,466613.0688,0,FALSE,'Weekly',0,681009.9347,Non-Recyclable
+2024,537.0600389,Autoinjector,Type2 Plastic,1656398.057,1,FALSE,'Weekly',1,2650480.393,Non-Recyclable
+2025,757.7462623,Autoinjector,Recyclable Plastic,762224.5372,0,TRUE,'Monthly',1,590948.5332,Recyclable
+2018,87.13081811,Autoinjector,Type2 Plastic,922584.9284,0,FALSE,'Monthly',0,1310441.424,Non-Recyclable
+2028,513.4852028,Autoinjector,Type1 Plastic,2196053.865,0,FALSE,'Monthly',1,3009596.794,Non-Recyclable
+2014,89.65769126,Autoinjector,Type2 Plastic,98166.93868,1,FALSE,'Daily',1,121883.8668,Non-Recyclable
+2010,50,Patch Injector,Type2 Plastic,220922,0,FALSE,'Daily',0,308750.4432,Non-Recyclable
+2018,85.64810524,Pen,Type1 Plastic,587870.7955,0,FALSE,'Yearly',0,836812.3696,Non-Recyclable
+2015,75.52271702,Autoinjector,Recyclable Plastic,863314.9686,1,TRUE,'Yearly',0,535333.5331,Recyclable
+2027,50.46025735,Pen,Recyclable Plastic,143392.6166,0,TRUE,'Daily',1,99906.70178,Recyclable
+2020,203.807667,Pen,Type1 Plastic,1390086.224,0,FALSE,'Monthly',1,1715351.317,Non-Recyclable
+2025,147.6073724,Pen,Recyclable Plastic,935945.1657,0,TRUE,'Weekly',1,690728.1504,Recyclable
+2014,98.36257851,Pen,Type1 Plastic,459655.1021,0,FALSE,'Weekly',0,741090.9054,Non-Recyclable
+2010,50,Pen,Type1 Plastic,289157,0,FALSE,'Weekly',1,417761.1596,Non-Recyclable
+2029,207.0321719,Autoinjector,Type2 Plastic,266481.7065,1,FALSE,'Weekly',1,336729.3688,Non-Recyclable
+2019,255.5664527,Patch Injector,Type2 Plastic,127661.5169,0,FALSE,'Weekly',1,148475.0207,Non-Recyclable
+2020,217.4745685,Autoinjector,Type2 Plastic,456799.7435,1,FALSE,'Weekly',0,608853.5224,Non-Recyclable
+2017,100.6673049,Patch Injector,Type1 Plastic,784007.47,0,FALSE,'Monthly',1,933026.8939,Non-Recyclable
+2014,90.49269808,Pen,Recyclable Plastic,657777.7574,0,TRUE,'Monthly',1,495496.174,Recyclable
+2017,61.7554415,Autoinjector,Type1 Plastic,600386.3832,0,FALSE,'Monthly',1,789963.2957,Non-Recyclable
+2022,403.8767287,Autoinjector,Type2 Plastic,1102075.333,0,FALSE,'Daily',1,1673824.792,Non-Recyclable
+2022,51.67126232,Pen,Type1 Plastic,134902.2803,0,FALSE,'Monthly',1,192375.5598,Non-Recyclable
+2017,144.8992398,Pen,Type1 Plastic,284998.4888,0,FALSE,'Monthly',1,429796.3739,Non-Recyclable
+2019,64.91720461,Pen,Recyclable Plastic,110158.2884,0,TRUE,'Weekly',1,67701.97428,Recyclable
+2025,83.71730018,Pen,Type1 Plastic,1240370.9,0,FALSE,'Monthly',1,1545170.452,Non-Recyclable
+2025,69.02082293,Pen,Type2 Plastic,1581959.863,1,FALSE,'Weekly',0,1923080.738,Non-Recyclable
+2026,165.6993084,Pen,Type1 Plastic,562872.1281,0,FALSE,'Weekly',1,830528.7864,Non-Recyclable
+2022,99.18024058,Pen,Type1 Plastic,1075967.238,0,FALSE,'Weekly',1,1701837.696,Non-Recyclable
+2015,100.2189643,Autoinjector,Recyclable Plastic,655598.8709,0,TRUE,'Yearly',1,486587.9188,Recyclable
+2015,73.15328744,Patch Injector,Type2 Plastic,448008.6375,0,FALSE,'Daily',1,593562.2257,Non-Recyclable
+2020,298.644955,Pen,Recyclable Plastic,1010034.229,1,TRUE,'Monthly',1,657519.1544,Recyclable
+2018,117.6291694,Pen,Type1 Plastic,1100705.874,1,FALSE,'Weekly',1,1605827.848,Non-Recyclable
+2026,438.8016653,Pen,Type2 Plastic,747870.4602,0,FALSE,'Daily',1,1002614.841,Non-Recyclable
+2010,50,Autoinjector,Type2 Plastic,100014,0,FALSE,'Monthly',1,151175.8534,Non-Recyclable
+2017,121.7264753,Pen,Recyclable Plastic,229765.1897,0,TRUE,'Monthly',1,162458.1887,Recyclable
+2013,55.57619475,Autoinjector,Type2 Plastic,866573.0262,0,FALSE,'Monthly',1,1204890.061,Non-Recyclable
+2021,100.9897981,Patch Injector,Recyclable Plastic,775804.8985,0,TRUE,'Yearly',1,524109.4585,Recyclable
+2015,59.33974924,Autoinjector,Type1 Plastic,14569.11303,0,FALSE,'Monthly',1,21280.61552,Non-Recyclable
+2021,207.0721856,Autoinjector,Type2 Plastic,1126131.808,1,FALSE,'Monthly',1,1519268.536,Non-Recyclable
+2013,50.45446591,Autoinjector,Type1 Plastic,991931.2662,0,FALSE,'Daily',1,1375461.658,Non-Recyclable
+2016,78.89440044,Pen,Type2 Plastic,682373.8873,0,FALSE,'Daily',0,1021871.139,Non-Recyclable
+2013,58.527298,Patch Injector,Recyclable Plastic,242566.2715,0,TRUE,'Weekly',1,155785.6606,Recyclable
+2030,98.94688999,Patch Injector,Type2 Plastic,1194514.721,0,FALSE,'Weekly',1,1725767.145,Non-Recyclable
+2017,58.01617877,Pen,Type1 Plastic,24368.9528,0,FALSE,'Monthly',0,31652.36758,Non-Recyclable
+2016,103.7614377,Autoinjector,Type1 Plastic,1077530.397,1,FALSE,'Weekly',1,1466046.7,Non-Recyclable
+2010,50,Pen,Type2 Plastic,436680,0,FALSE,'Monthly',1,583879.7891,Non-Recyclable
+2028,104.5011422,Patch Injector,Recyclable Plastic,265381.851,0,TRUE,'Yearly',1,173953.6432,Recyclable
+2020,227.645606,Pen,Type2 Plastic,1157883.13,0,FALSE,'Weekly',0,1771012.771,Non-Recyclable
+2015,121.7928494,Pen,Type1 Plastic,606094.2934,1,FALSE,'Monthly',1,850746.702,Non-Recyclable
+2012,51.54160643,Patch Injector,Type2 Plastic,151148.2723,0,FALSE,'Monthly',1,210485.5803,Non-Recyclable
+2015,91.99139891,Autoinjector,Type1 Plastic,371622.6694,0,FALSE,'Weekly',1,531829.1654,Non-Recyclable
+2018,98.69760514,Autoinjector,Recyclable Plastic,1084198.13,0,TRUE,'Monthly',1,801227.0749,Recyclable
+2023,107.0498366,Autoinjector,Recyclable Plastic,819683.2277,0,TRUE,'Monthly',1,549637.3421,Recyclable
+2020,305.6777203,Patch Injector,Type1 Plastic,652741.0014,0,FALSE,'Daily',0,880090.0301,Non-Recyclable
+2024,261.193396,Patch Injector,Type2 Plastic,1743098.711,0,FALSE,'Weekly',1,2597200.247,Non-Recyclable
+2029,81.16921077,Pen,Type1 Plastic,2053517.95,0,FALSE,'Daily',1,2904413.47,Non-Recyclable
+2014,91.40762324,Autoinjector,Type2 Plastic,316878.4276,0,FALSE,'Monthly',1,399301.0381,Non-Recyclable
+2015,105.8435551,Pen,Recyclable Plastic,319164.6408,0,TRUE,'Monthly',1,231518.3435,Recyclable
+2015,105.4908155,Autoinjector,Recyclable Plastic,580315.7738,0,TRUE,'Weekly',1,384100.1451,Recyclable
+2014,68.51701544,Patch Injector,Type2 Plastic,1183778.632,0,FALSE,'Daily',0,1544722.816,Non-Recyclable
+2016,74.14770962,Pen,Type2 Plastic,1239054.93,0,FALSE,'Yearly',1,1581159.434,Non-Recyclable
+2021,306.7667473,Patch Injector,Type1 Plastic,1138757.605,0,FALSE,'Monthly',1,1631059.403,Non-Recyclable
+2012,67.48363872,Autoinjector,Type1 Plastic,843683.2266,0,FALSE,'Weekly',1,1253568.608,Non-Recyclable
+2026,803.8026034,Autoinjector,Recyclable Plastic,400951.0618,0,TRUE,'Daily',1,290747.016,Recyclable
+2010,50,Autoinjector,Type2 Plastic,694463,0,FALSE,'Daily',0,915675.6259,Non-Recyclable
+2014,57.35408741,Patch Injector,Type2 Plastic,859919.2003,1,FALSE,'Weekly',1,1171407.661,Non-Recyclable
+2026,96.1504575,Pen,Recyclable Plastic,1603788.068,0,TRUE,'Monthly',1,1126835.846,Recyclable
+2010,50,Pen,Recyclable Plastic,643086,0,TRUE,'Yearly',1,532928.7386,Recyclable
+2023,467.3591987,Patch Injector,Recyclable Plastic,232070.8511,0,TRUE,'Monthly',0,158853.5649,Recyclable
+2019,85.39425152,Pen,Type1 Plastic,626341.5466,0,FALSE,'Yearly',1,833406.3424,Non-Recyclable
+2019,223.8239405,Patch Injector,Recyclable Plastic,957394.5028,0,TRUE,'Daily',0,697934.3441,Recyclable
+2027,71.03005442,Autoinjector,Type2 Plastic,267346.3932,1,FALSE,'Weekly',1,364737.3676,Non-Recyclable
+2025,387.2105034,Pen,Type2 Plastic,1117724.31,0,FALSE,'Yearly',1,1416229.063,Non-Recyclable
+2018,83.49189545,Pen,Type2 Plastic,223065.0137,0,FALSE,'Monthly',0,354698.4508,Non-Recyclable
+2017,112.0407747,Autoinjector,Type2 Plastic,1201310.307,1,FALSE,'Monthly',1,1725129.633,Non-Recyclable
+2018,142.4026415,Pen,Recyclable Plastic,419182.6429,0,TRUE,'Weekly',1,296082.5772,Recyclable
+2024,87.42672453,Autoinjector,Type1 Plastic,77098.31903,0,FALSE,'Monthly',1,99653.56491,Non-Recyclable
+2018,63.68356608,Autoinjector,Type2 Plastic,1388665.605,0,FALSE,'Monthly',1,2006741.787,Non-Recyclable
+2023,57.78449014,Pen,Type1 Plastic,1009279.855,0,FALSE,'Yearly',1,1565951.541,Non-Recyclable
+2013,52.64986973,Patch Injector,Type2 Plastic,391422.2632,0,FALSE,'Yearly',1,553247.2234,Non-Recyclable
+2022,106.6426535,Patch Injector,Type1 Plastic,1295341.372,0,FALSE,'Daily',1,1825615.817,Non-Recyclable
+2017,124.6954494,Autoinjector,Type1 Plastic,171698.5763,1,FALSE,'Monthly',1,251334.511,Non-Recyclable
+2023,78.54816378,Autoinjector,Type2 Plastic,640618.7618,0,FALSE,'Monthly',1,888339.2403,Non-Recyclable
+2019,220.3210022,Patch Injector,Type1 Plastic,680658.324,0,FALSE,'Monthly',1,869449.8072,Non-Recyclable
+2026,195.0350456,Patch Injector,Recyclable Plastic,1340279.304,0,TRUE,'Monthly',1,941259.9039,Recyclable
+2017,128.3501712,Patch Injector,Recyclable Plastic,1056397.574,0,TRUE,'Yearly',0,669628.1728,Recyclable
+2017,153.2136231,Pen,Type2 Plastic,805279.1013,1,FALSE,'Monthly',1,1062500.895,Non-Recyclable
+2029,789.483515,Patch Injector,Type1 Plastic,2191359.522,0,FALSE,'Monthly',1,3095333.487,Non-Recyclable
+2010,50,Patch Injector,Type1 Plastic,888533,0,FALSE,'Monthly',1,1306403.311,Non-Recyclable
+2021,55.84412358,Pen,Type1 Plastic,799565.0899,1,FALSE,'Monthly',0,998448.5043,Non-Recyclable
+2024,176.237597,Autoinjector,Recyclable Plastic,1655503.568,0,TRUE,'Monthly',0,1099775.76,Recyclable
+2012,60.17560795,Autoinjector,Recyclable Plastic,758223.5342,0,TRUE,'Yearly',1,531984.9293,Recyclable
+2017,137.820302,Autoinjector,Type2 Plastic,500916.9095,0,FALSE,'Weekly',1,759347.7359,Non-Recyclable
+2027,74.37495226,Pen,Recyclable Plastic,263094.2791,0,TRUE,'Yearly',0,173800.967,Recyclable
+2028,513.3857545,Patch Injector,Recyclable Plastic,1829294.005,0,TRUE,'Weekly',0,1103071.303,Recyclable
+2018,212.39203,Autoinjector,Type2 Plastic,1414307.501,0,FALSE,'Yearly',1,2046426.177,Non-Recyclable
+2028,324.0356663,Autoinjector,Type1 Plastic,626443.836,0,FALSE,'Monthly',1,946623.7691,Non-Recyclable
+2020,64.60029166,Patch Injector,Type2 Plastic,677124.1743,0,FALSE,'Monthly',1,988252.5421,Non-Recyclable
+2028,66.2951219,Patch Injector,Recyclable Plastic,534275.1832,0,TRUE,'Monthly',1,409609.0259,Recyclable
+2023,58.31166019,Pen,Recyclable Plastic,927749.9735,0,TRUE,'Daily',1,559980.1187,Recyclable
+2010,50,Autoinjector,Type1 Plastic,613067,0,FALSE,'Monthly',1,849239.1666,Non-Recyclable
+2015,67.94034124,Autoinjector,Type2 Plastic,867630.4966,0,FALSE,'Monthly',1,1225396.438,Non-Recyclable
+2016,70.54351295,Pen,Type1 Plastic,296438.6813,1,FALSE,'Weekly',1,406051.7662,Non-Recyclable
+2016,57.52989242,Patch Injector,Type1 Plastic,318963.8746,0,FALSE,'Monthly',0,479792.7193,Non-Recyclable
+2020,231.843172,Patch Injector,Type1 Plastic,1243002.937,0,FALSE,'Monthly',1,1809966.222,Non-Recyclable
+2022,141.3362381,Autoinjector,Recyclable Plastic,1281916.775,0,TRUE,'Daily',1,981452.8495,Recyclable
+2019,199.7126064,Pen,Type1 Plastic,407854.353,0,FALSE,'Yearly',1,495914.2682,Non-Recyclable
+2013,60.83747321,Autoinjector,Recyclable Plastic,1036041.902,0,TRUE,'Weekly',1,770893.5948,Recyclable
+2030,123.9217452,Autoinjector,Recyclable Plastic,1404075.788,0,TRUE,'Monthly',0,1021981.58,Recyclable
+2014,53.69670673,Pen,Recyclable Plastic,642649.4664,0,TRUE,'Weekly',1,435185.0894,Recyclable
+2013,86.030177,Pen,Recyclable Plastic,255315.3795,0,TRUE,'Weekly',1,170578.4597,Recyclable
+2011,54.42547421,Autoinjector,Type2 Plastic,677945.84,0,FALSE,'Weekly',0,780972.2599,Non-Recyclable
+2025,413.0744337,Autoinjector,Type2 Plastic,1870613.045,0,FALSE,'Monthly',1,2676368.463,Non-Recyclable
+2012,60.22240331,Pen,Type2 Plastic,120886.0755,0,FALSE,'Monthly',0,152457.1464,Non-Recyclable
+2012,51.18411528,Patch Injector,Recyclable Plastic,340462.8183,0,TRUE,'Weekly',1,236860.4892,Recyclable
+2020,79.87228022,Autoinjector,Recyclable Plastic,165330.6776,0,TRUE,'Weekly',1,132936.415,Recyclable
+2017,166.9977859,Pen,Type1 Plastic,1008853.144,0,FALSE,'Monthly',1,1497067.078,Non-Recyclable
+2017,71.25368002,Pen,Type1 Plastic,1120627.531,0,FALSE,'Daily',1,1417289.91,Non-Recyclable
+2021,294.7286995,Pen,Type2 Plastic,636812.4037,0,FALSE,'Weekly',0,910309.6498,Non-Recyclable
+2026,158.5284665,Patch Injector,Type2 Plastic,787632.2798,0,FALSE,'Daily',1,1059821.461,Non-Recyclable
+2012,61.95717563,Autoinjector,Recyclable Plastic,184272.6666,0,TRUE,'Yearly',1,126485.5923,Recyclable
+2021,207.5592873,Pen,Type2 Plastic,197551.5241,0,FALSE,'Weekly',1,289528.6887,Non-Recyclable
+2021,65.31988956,Pen,Recyclable Plastic,464291.765,1,TRUE,'Monthly',1,369793.5059,Recyclable
+2010,50,Patch Injector,Recyclable Plastic,365496,0,TRUE,'Monthly',1,227979.3489,Recyclable
+2021,115.4038648,Autoinjector,Recyclable Plastic,960178.8559,0,TRUE,'Monthly',0,710028.9718,Recyclable
+2029,674.5397224,Autoinjector,Type2 Plastic,1679316.863,1,FALSE,'Monthly',1,2483713.346,Non-Recyclable
+2012,71.2674483,Patch Injector,Type1 Plastic,263252.2827,1,FALSE,'Yearly',1,379817.5072,Non-Recyclable
+2011,57.33501946,Pen,Recyclable Plastic,57512.62,0,TRUE,'Monthly',1,38095.18415,Recyclable
+2020,95.67528356,Autoinjector,Recyclable Plastic,269277.1329,0,TRUE,'Monthly',1,201296.009,Recyclable
+2024,299.7864973,Patch Injector,Type2 Plastic,256898.0956,0,FALSE,'Weekly',1,387527.6414,Non-Recyclable
+2022,337.6563864,Pen,Recyclable Plastic,630138.664,0,TRUE,'Yearly',1,417720.5447,Recyclable
+2013,55.83835838,Pen,Type1 Plastic,53491.02094,1,FALSE,'Yearly',1,78150.68413,Non-Recyclable
+2027,796.214271,Autoinjector,Type2 Plastic,529466.4056,1,FALSE,'Monthly',1,751894.2859,Non-Recyclable
+2011,50.30019934,Autoinjector,Type2 Plastic,427897.195,0,FALSE,'Monthly',1,582697.6417,Non-Recyclable
+2026,266.3920472,Patch Injector,Recyclable Plastic,842175.6028,0,TRUE,'Monthly',1,673158.3132,Recyclable
+2011,50.45234426,Autoinjector,Type1 Plastic,847958.98,0,FALSE,'Yearly',1,1082562.518,Non-Recyclable
+2028,569.5941813,Patch Injector,Type1 Plastic,744495.86,0,FALSE,'Daily',1,868049.5485,Non-Recyclable
+2011,53.8257055,Patch Injector,Type1 Plastic,166124.695,0,FALSE,'Monthly',1,271210.1388,Non-Recyclable
+2012,54.44924325,Autoinjector,Recyclable Plastic,728339.178,0,TRUE,'Monthly',1,495611.6614,Recyclable
+2011,59.98107194,Autoinjector,Recyclable Plastic,852303.045,0,TRUE,'Daily',1,674230.4527,Recyclable
+2018,131.2148813,Pen,Type2 Plastic,1258136.678,0,FALSE,'Weekly',1,1843824.503,Non-Recyclable
+2020,264.4408338,Pen,Recyclable Plastic,316565.0518,0,TRUE,'Yearly',1,220983.2852,Recyclable
+2018,164.0094933,Autoinjector,Recyclable Plastic,330975.4303,0,TRUE,'Weekly',1,258820.1078,Recyclable
+2013,71.54336938,Pen,Type1 Plastic,810578.2868,1,FALSE,'Weekly',1,1153543.355,Non-Recyclable
+2022,335.1374449,Autoinjector,Type2 Plastic,386956.05,0,FALSE,'Daily',1,479313.6169,Non-Recyclable
+2021,201.4171916,Pen,Recyclable Plastic,518595.6736,0,TRUE,'Monthly',1,377861.4943,Recyclable
+2022,381.2966637,Autoinjector,Recyclable Plastic,59031.93679,0,TRUE,'Weekly',1,42876.57027,Recyclable
+2021,146.084333,Patch Injector,Type2 Plastic,1149082.196,1,FALSE,'Daily',1,1581176.874,Non-Recyclable
+2010,50,Pen,Type2 Plastic,31409,1,FALSE,'Weekly',1,44120.17627,Non-Recyclable
+2017,64.74576962,Pen,Type2 Plastic,45975.35608,0,FALSE,'Yearly',0,63370.05494,Non-Recyclable
+2010,50,Pen,Type1 Plastic,193272,1,FALSE,'Weekly',1,260882.1337,Non-Recyclable
+2010,50,Autoinjector,Type2 Plastic,861869,0,FALSE,'Weekly',1,1265109.891,Non-Recyclable
+2012,63.14244596,Patch Injector,Type2 Plastic,1059447.71,0,FALSE,'Daily',1,1437448.949,Non-Recyclable
+2022,121.9086012,Autoinjector,Type1 Plastic,42152.82889,1,FALSE,'Daily',1,63683.14078,Non-Recyclable
+2016,137.5459201,Patch Injector,Type2 Plastic,480662.9098,0,FALSE,'Weekly',1,639535.1358,Non-Recyclable
+2014,67.88559274,Patch Injector,Type1 Plastic,662192.4612,1,FALSE,'Weekly',1,853928.5189,Non-Recyclable
+2010,50,Pen,Type1 Plastic,128527,0,FALSE,'Monthly',1,180406.0266,Non-Recyclable
+2019,163.0422572,Pen,Recyclable Plastic,155201.8321,0,TRUE,'Monthly',1,126378.9683,Recyclable
+2014,54.49358274,Pen,Type1 Plastic,942483.2256,0,FALSE,'Monthly',0,1291970.892,Non-Recyclable
+2029,554.5569132,Patch Injector,Recyclable Plastic,2262732.41,0,TRUE,'Weekly',1,1445559.424,Recyclable
+2021,59.90134117,Autoinjector,Type2 Plastic,845144.5406,0,FALSE,'Monthly',1,1132334.957,Non-Recyclable
+2022,283.8886143,Autoinjector,Type1 Plastic,568135.5429,0,FALSE,'Weekly',1,824773.7361,Non-Recyclable
+2018,54.49284504,Pen,Recyclable Plastic,113645.7484,0,TRUE,'Monthly',1,75306.49378,Recyclable
+2029,426.0114554,Pen,Recyclable Plastic,1821326.432,1,TRUE,'Monthly',1,1259723.159,Recyclable
+2028,278.820806,Pen,Recyclable Plastic,134703.9539,0,TRUE,'Monthly',1,85301.47504,Recyclable
+2020,73.84100437,Patch Injector,Type2 Plastic,1158192.171,0,FALSE,'Weekly',1,1664935.369,Non-Recyclable
+2022,147.0778904,Autoinjector,Recyclable Plastic,994232.5364,1,TRUE,'Weekly',1,666949.9264,Recyclable
+2022,207.9940082,Patch Injector,Type2 Plastic,884814.2664,0,FALSE,'Monthly',1,1167674.875,Non-Recyclable
+2028,226.7784116,Autoinjector,Recyclable Plastic,2133481.036,0,TRUE,'Weekly',1,1558350.971,Recyclable
+2017,139.8270583,Patch Injector,Recyclable Plastic,864100.993,0,TRUE,'Monthly',1,601260.9322,Recyclable
+2017,75.66878564,Autoinjector,Type1 Plastic,794156.7775,0,FALSE,'Daily',0,1022698.024,Non-Recyclable
+2010,50,Pen,Recyclable Plastic,288991,0,TRUE,'Monthly',1,205921.6367,Recyclable
+2028,682.9189279,Patch Injector,Recyclable Plastic,1618472.622,0,TRUE,'Yearly',1,1163736.833,Recyclable
+2016,97.79783843,Autoinjector,Type1 Plastic,650195.0397,0,FALSE,'Monthly',1,924891.0721,Non-Recyclable
+2029,497.042739,Patch Injector,Type2 Plastic,1617752.381,0,FALSE,'Daily',1,2105389.16,Non-Recyclable
+2023,258.3242017,Patch Injector,Type1 Plastic,488853.2046,1,FALSE,'Monthly',1,642386.8106,Non-Recyclable
+2010,50,Autoinjector,Type1 Plastic,255495,1,FALSE,'Daily',1,332733.7491,Non-Recyclable
+2025,237.5335689,Patch Injector,Type2 Plastic,1592894.209,0,FALSE,'Monthly',0,2214572.416,Non-Recyclable
+2024,77.44533412,Pen,Recyclable Plastic,1530258.385,0,TRUE,'Weekly',1,1097512.958,Recyclable
+2016,54.32016395,Autoinjector,Type1 Plastic,991492.6754,0,FALSE,'Monthly',1,1421786.457,Non-Recyclable
+2026,142.8217029,Pen,Type2 Plastic,568933.1715,1,FALSE,'Monthly',1,889994.3075,Non-Recyclable
+2012,68.63701362,Autoinjector,Type1 Plastic,106801.137,0,FALSE,'Yearly',0,126125.6926,Non-Recyclable
+2016,79.750766,Patch Injector,Recyclable Plastic,1099397.949,0,TRUE,'Monthly',1,827036.4771,Recyclable
+2018,87.74037702,Patch Injector,Type2 Plastic,1381290.592,0,FALSE,'Yearly',1,1814071.008,Non-Recyclable
+2024,73.06183759,Autoinjector,Recyclable Plastic,824389.578,0,TRUE,'Daily',1,650706.4159,Recyclable
+2012,58.2815216,Autoinjector,Type1 Plastic,27096.41632,1,FALSE,'Weekly',1,38678.10547,Non-Recyclable
+2029,84.49059383,Pen,Recyclable Plastic,519587.0547,0,TRUE,'Monthly',0,355400.1113,Recyclable
+2015,61.9301637,Autoinjector,Type2 Plastic,230908.7898,0,FALSE,'Yearly',1,348905.3157,Non-Recyclable
+2029,285.5143306,Patch Injector,Recyclable Plastic,1987379.289,0,TRUE,'Monthly',1,1623113.375,Recyclable
+2011,57.93855136,Pen,Type1 Plastic,710029.43,0,FALSE,'Yearly',1,1056706.835,Non-Recyclable
+2020,112.6819882,Autoinjector,Recyclable Plastic,1406634.666,0,TRUE,'Weekly',0,1095715.788,Recyclable
+2020,262.2883299,Pen,Type1 Plastic,1546846.063,0,FALSE,'Monthly',1,2214968.678,Non-Recyclable
+2023,527.7538805,Autoinjector,Type2 Plastic,486643.2761,0,FALSE,'Yearly',0,620103.7912,Non-Recyclable
+2028,932.1040402,Autoinjector,Recyclable Plastic,904067.2848,1,TRUE,'Monthly',0,583905.5403,Recyclable
+2016,81.04132885,Autoinjector,Recyclable Plastic,481993.8197,0,TRUE,'Monthly',1,302465.0799,Recyclable
+2017,104.165668,Pen,Type2 Plastic,559055.6486,0,FALSE,'Weekly',1,662216.6233,Non-Recyclable
+2029,356.568067,Pen,Type2 Plastic,142898.0947,0,FALSE,'Daily',0,195968.7957,Non-Recyclable
+2016,119.7340624,Pen,Type2 Plastic,760958.7746,1,FALSE,'Monthly',1,1112681.822,Non-Recyclable
+2025,548.7290721,Autoinjector,Type2 Plastic,1084497.446,0,FALSE,'Daily',1,1567287.22,Non-Recyclable
+2019,186.6409402,Pen,Type2 Plastic,726294.8197,0,FALSE,'Yearly',1,1079038.006,Non-Recyclable
+2011,57.23167556,Patch Injector,Recyclable Plastic,218971.39,0,TRUE,'Weekly',1,162473.8068,Recyclable
+2020,98.20501161,Autoinjector,Type2 Plastic,1486169.995,0,FALSE,'Monthly',0,1839477.678,Non-Recyclable
+2022,86.70397064,Autoinjector,Type1 Plastic,1241088.43,0,FALSE,'Weekly',1,1740760.092,Non-Recyclable
+2020,71.5650137,Autoinjector,Type2 Plastic,1251396.737,0,FALSE,'Weekly',1,1573954.274,Non-Recyclable
+2021,166.7345893,Pen,Recyclable Plastic,754287.49,0,TRUE,'Monthly',1,527034.1838,Recyclable
+2012,52.14230797,Pen,Recyclable Plastic,792816.7021,0,TRUE,'Daily',1,557631.1089,Recyclable
+2028,93.94556927,Pen,Type1 Plastic,1409579.24,0,FALSE,'Daily',1,2006286.252,Non-Recyclable
+2012,65.99806813,Autoinjector,Type1 Plastic,337371.2955,1,FALSE,'Monthly',1,460236.1962,Non-Recyclable
+2025,166.9149014,Patch Injector,Type2 Plastic,1119808.609,1,FALSE,'Monthly',1,1559745.657,Non-Recyclable
+2012,67.90065363,Pen,Type1 Plastic,270873.5252,0,FALSE,'Yearly',1,360059.0656,Non-Recyclable
+2022,69.44134277,Autoinjector,Recyclable Plastic,1538771.585,1,TRUE,'Daily',1,1025458.412,Recyclable
+2015,52.86021002,Patch Injector,Type2 Plastic,29784.99449,0,FALSE,'Weekly',1,37347.28004,Non-Recyclable
+2025,108.803236,Pen,Type1 Plastic,1487889.654,0,FALSE,'Weekly',1,2386468.196,Non-Recyclable
+2025,102.388523,Pen,Recyclable Plastic,742985.8944,1,TRUE,'Monthly',1,492203.6866,Recyclable
+2026,546.6293107,Pen,Type2 Plastic,65079.87152,0,FALSE,'Yearly',1,87629.04355,Non-Recyclable
+2019,61.255842,Patch Injector,Type1 Plastic,49842.14491,0,FALSE,'Monthly',1,61619.07686,Non-Recyclable
+2030,423.0085609,Pen,Type2 Plastic,2074913.338,0,FALSE,'Weekly',1,2711288.287,Non-Recyclable
+2010,50,Pen,Recyclable Plastic,513038,0,TRUE,'Daily',0,370749.2427,Recyclable
+2026,165.6109874,Autoinjector,Type1 Plastic,1457334.089,0,FALSE,'Monthly',1,2143843.907,Non-Recyclable
+2016,130.3492715,Patch Injector,Type1 Plastic,706077.6261,0,FALSE,'Monthly',1,960464.7158,Non-Recyclable
+2011,54.91273632,Autoinjector,Type2 Plastic,492370.56,1,FALSE,'Monthly',1,646691.65,Non-Recyclable
+2016,74.98195116,Autoinjector,Type1 Plastic,1289823.541,0,FALSE,'Monthly',1,1810124.307,Non-Recyclable
+2021,339.7304469,Pen,Type2 Plastic,1336781.379,0,FALSE,'Yearly',1,1869480.184,Non-Recyclable
+2012,70.09241691,Pen,Recyclable Plastic,1047020.466,0,TRUE,'Monthly',1,753726.6737,Recyclable
+2010,50,Patch Injector,Type2 Plastic,738676,1,FALSE,'Monthly',1,1042761.617,Non-Recyclable
+2019,51.96090375,Patch Injector,Type2 Plastic,1136773.617,0,FALSE,'Weekly',1,1698337.722,Non-Recyclable
+2014,89.59448339,Pen,Type2 Plastic,1044366.052,0,FALSE,'Weekly',1,1255506.607,Non-Recyclable
+2023,113.564842,Pen,Recyclable Plastic,1096587.096,0,TRUE,'Monthly',1,731604.1734,Recyclable
+2019,89.31783064,Pen,Type2 Plastic,1056650.797,1,FALSE,'Monthly',1,1378433.48,Non-Recyclable
+2018,193.2517912,Autoinjector,Type2 Plastic,624283.6817,0,FALSE,'Monthly',1,802752.6283,Non-Recyclable
+2026,102.2905888,Autoinjector,Type1 Plastic,898518.8353,1,FALSE,'Monthly',1,1167279.127,Non-Recyclable
+2011,50.65689588,Autoinjector,Recyclable Plastic,261786.085,0,TRUE,'Weekly',1,180025.9263,Recyclable
+2029,437.9559271,Pen,Type2 Plastic,283421.4012,1,FALSE,'Daily',1,347632.4814,Non-Recyclable
+2025,397.52329,Autoinjector,Type1 Plastic,518978.8869,1,FALSE,'Weekly',1,650729.4289,Non-Recyclable
+2013,80.0796293,Autoinjector,Type1 Plastic,16521.80316,0,FALSE,'Weekly',1,23737.08842,Non-Recyclable
+2023,255.485509,Pen,Type2 Plastic,642874.7675,0,FALSE,'Daily',1,825494.5467,Non-Recyclable
+2029,156.8190001,Patch Injector,Type1 Plastic,177968.34,0,FALSE,'Yearly',1,246364.5853,Non-Recyclable
+2029,513.0646351,Autoinjector,Type2 Plastic,2182460.413,0,FALSE,'Daily',1,3019719.689,Non-Recyclable
+2026,839.7699353,Autoinjector,Type2 Plastic,714835.0438,0,FALSE,'Weekly',1,1017348.986,Non-Recyclable
+2023,79.48199472,Pen,Type2 Plastic,1525238.799,0,FALSE,'Monthly',1,2279008.49,Non-Recyclable
+2014,75.2675319,Pen,Recyclable Plastic,705899.4605,0,TRUE,'Weekly',1,505416.4794,Recyclable
+2012,60.38273658,Patch Injector,Type1 Plastic,530773.2911,0,FALSE,'Yearly',1,825029.6101,Non-Recyclable
+2010,50,Autoinjector,Type2 Plastic,301577,0,FALSE,'Monthly',1,463063.7624,Non-Recyclable
+2012,51.57453306,Patch Injector,Recyclable Plastic,106827.3456,0,TRUE,'Weekly',1,86776.343,Recyclable
+2021,82.01603568,Autoinjector,Type1 Plastic,1109495.942,0,FALSE,'Yearly',1,1470494.779,Non-Recyclable
+2020,63.08186214,Pen,Recyclable Plastic,1010824.691,0,TRUE,'Weekly',0,660252.4777,Recyclable
+2013,62.57220396,Patch Injector,Recyclable Plastic,580587.6659,1,TRUE,'Monthly',1,390190.8287,Recyclable
+2014,59.56228088,Patch Injector,Recyclable Plastic,460990.7229,1,TRUE,'Monthly',1,292771.6597,Recyclable
+2014,50.45386886,Pen,Type1 Plastic,626723.3805,0,FALSE,'Yearly',1,827195.3331,Non-Recyclable
+2013,76.37651592,Autoinjector,Recyclable Plastic,389570.1506,0,TRUE,'Weekly',1,236801.3986,Recyclable
+2022,199.6602534,Patch Injector,Type2 Plastic,1538851.292,0,FALSE,'Monthly',0,2370151.592,Non-Recyclable
+2022,379.7413174,Autoinjector,Recyclable Plastic,727316.0618,0,TRUE,'Monthly',1,548956.2291,Recyclable
+2015,64.02307366,Autoinjector,Type2 Plastic,891921.075,0,FALSE,'Monthly',1,1100336.346,Non-Recyclable
+2012,50.98531183,Pen,Type2 Plastic,891345.7498,1,FALSE,'Daily',1,1241326.464,Non-Recyclable
+2015,102.873472,Autoinjector,Recyclable Plastic,800914.9004,0,TRUE,'Monthly',1,587198.0558,Recyclable
+2029,264.193008,Patch Injector,Type2 Plastic,1130551.53,1,FALSE,'Daily',1,1719411.86,Non-Recyclable
+2012,64.02090583,Patch Injector,Type1 Plastic,460760.2923,0,FALSE,'Weekly',0,600580.6013,Non-Recyclable
+2017,53.79719375,Autoinjector,Type1 Plastic,1247446.245,0,FALSE,'Yearly',1,1904157.064,Non-Recyclable
+2015,78.76363967,Autoinjector,Type1 Plastic,119371.7678,0,FALSE,'Monthly',1,162026.2448,Non-Recyclable
+2019,82.91637239,Pen,Type1 Plastic,35484.97976,0,FALSE,'Weekly',1,46713.66825,Non-Recyclable
+2012,68.32425399,Autoinjector,Type2 Plastic,573822.0086,0,FALSE,'Weekly',1,987910.2138,Non-Recyclable
+2015,116.6749134,Autoinjector,Type2 Plastic,249420.8225,1,FALSE,'Weekly',1,373888.1264,Non-Recyclable
+2019,207.6850503,Pen,Recyclable Plastic,1104831.488,0,TRUE,'Monthly',1,834499.5293,Recyclable
+2029,120.3789795,Pen,Type1 Plastic,1702983.971,0,FALSE,'Monthly',0,2443452.95,Non-Recyclable
+2016,142.4940831,Patch Injector,Type1 Plastic,159171.3483,0,FALSE,'Monthly',1,206003.797,Non-Recyclable
+2015,71.01313501,Patch Injector,Type2 Plastic,332514.9879,0,FALSE,'Yearly',1,457501.8903,Non-Recyclable
+2011,55.77230371,Pen,Type1 Plastic,1008971.535,1,FALSE,'Weekly',1,1504250.329,Non-Recyclable
+2025,86.4806561,Autoinjector,Type1 Plastic,1161281.712,0,FALSE,'Monthly',1,1606317.786,Non-Recyclable
+2022,169.8805824,Patch Injector,Recyclable Plastic,221895.9102,0,TRUE,'Monthly',1,165305.9886,Recyclable
+2017,118.3751144,Patch Injector,Type1 Plastic,232563.1217,0,FALSE,'Monthly',1,321527.774,Non-Recyclable
+2017,110.5393131,Patch Injector,Recyclable Plastic,805684.6381,0,TRUE,'Daily',1,635663.9476,Recyclable
+2016,113.9993533,Pen,Type2 Plastic,370860.2429,0,FALSE,'Monthly',0,475293.4236,Non-Recyclable
+2020,113.4359218,Patch Injector,Recyclable Plastic,732419.2035,1,TRUE,'Monthly',1,482005.7693,Recyclable
+2024,91.57124741,Patch Injector,Type1 Plastic,536497.3321,1,FALSE,'Weekly',1,620581.6284,Non-Recyclable
+2012,59.93928673,Autoinjector,Type2 Plastic,139745.3472,0,FALSE,'Yearly',1,209876.3877,Non-Recyclable
+2015,116.8569429,Autoinjector,Type2 Plastic,811088.7298,1,FALSE,'Monthly',1,1171896.9,Non-Recyclable
+2026,57.66011594,Autoinjector,Recyclable Plastic,314328.9034,0,TRUE,'Yearly',1,242422.3017,Recyclable
+2016,148.4762589,Autoinjector,Recyclable Plastic,1035986.997,1,TRUE,'Weekly',1,676179.8754,Recyclable
+2013,56.40339549,Pen,Type2 Plastic,853552.3207,0,FALSE,'Monthly',1,1180082.786,Non-Recyclable
+2030,1372.025475,Pen,Type1 Plastic,165255.4684,0,FALSE,'Yearly',1,210422.8149,Non-Recyclable
+2025,329.3879023,Pen,Recyclable Plastic,1151676.905,0,TRUE,'Yearly',0,781364.9865,Recyclable
+2018,70.63409172,Autoinjector,Type1 Plastic,97982.73222,1,FALSE,'Monthly',1,139508.3132,Non-Recyclable
+2030,946.9769667,Patch Injector,Type1 Plastic,1265534.876,1,FALSE,'Yearly',1,1966354.937,Non-Recyclable
+2020,177.9270466,Autoinjector,Type1 Plastic,1442936.879,0,FALSE,'Daily',1,2104974.996,Non-Recyclable
+2026,294.0947774,Patch Injector,Type1 Plastic,1281970.328,0,FALSE,'Monthly',1,1723177.053,Non-Recyclable
+2024,138.631774,Pen,Type2 Plastic,1093664.222,0,FALSE,'Weekly',1,1670222.727,Non-Recyclable
+2021,78.06373835,Pen,Type1 Plastic,1577797.777,0,FALSE,'Monthly',1,2394338.266,Non-Recyclable
+2024,260.2807448,Pen,Type2 Plastic,1360099.834,0,FALSE,'Monthly',1,1872581.129,Non-Recyclable
+2017,92.70738658,Pen,Recyclable Plastic,1238169.25,0,TRUE,'Yearly',1,767773.759,Recyclable
+2018,168.8107135,Pen,Type2 Plastic,1111611.964,0,FALSE,'Monthly',0,1568426.538,Non-Recyclable
+2012,58.33244541,Patch Injector,Type2 Plastic,1051708.529,0,FALSE,'Weekly',1,1452086.975,Non-Recyclable
+2020,146.8809566,Autoinjector,Type2 Plastic,947413.8432,0,FALSE,'Monthly',1,1183043.814,Non-Recyclable
+2024,60.78810571,Patch Injector,Recyclable Plastic,790743.4426,0,TRUE,'Daily',1,509014.4356,Recyclable
+2022,90.1276265,Pen,Type2 Plastic,1005418.57,0,FALSE,'Weekly',0,1246043.549,Non-Recyclable
+2021,93.97947799,Patch Injector,Recyclable Plastic,210409.3888,0,TRUE,'Monthly',1,131638.5963,Recyclable
+2010,50,Patch Injector,Recyclable Plastic,834856,0,TRUE,'Weekly',1,591140.4544,Recyclable
+2016,53.92183389,Pen,Type1 Plastic,818121.4828,1,FALSE,'Weekly',1,1129598.866,Non-Recyclable
+2026,114.038484,Autoinjector,Type1 Plastic,1467894.906,0,FALSE,'Monthly',1,2214054.201,Non-Recyclable
+2014,55.69232578,Autoinjector,Recyclable Plastic,470481.9785,0,TRUE,'Monthly',1,282937.9773,Recyclable
+2026,67.78646664,Patch Injector,Recyclable Plastic,994712.8716,0,TRUE,'Weekly',1,662654.0471,Recyclable
+2020,298.3875283,Autoinjector,Recyclable Plastic,1247745.706,0,TRUE,'Monthly',1,802558.8157,Recyclable
+2011,55.64310582,Patch Injector,Type2 Plastic,340944.835,0,FALSE,'Yearly',1,480322.2357,Non-Recyclable
+2025,69.58913571,Autoinjector,Type2 Plastic,635270.0089,0,FALSE,'Monthly',1,760764.6794,Non-Recyclable
+2015,70.02491008,Pen,Recyclable Plastic,576901.2353,0,TRUE,'Weekly',1,422637.294,Recyclable
+2017,157.1427708,Patch Injector,Type1 Plastic,381874.16,0,FALSE,'Weekly',1,498885.7746,Non-Recyclable
+2011,58.07538509,Pen,Type1 Plastic,378122.8,1,FALSE,'Weekly',1,552877.354,Non-Recyclable
+2025,718.4018388,Autoinjector,Type1 Plastic,1181282.856,0,FALSE,'Monthly',1,1816723.868,Non-Recyclable
+2020,203.0730636,Patch Injector,Type2 Plastic,1201023.068,0,FALSE,'Monthly',1,1655579.909,Non-Recyclable
+2021,231.6219587,Patch Injector,Type1 Plastic,74409.435,0,FALSE,'Weekly',0,92417.15305,Non-Recyclable
+2010,50,Autoinjector,Recyclable Plastic,882443,0,TRUE,'Yearly',1,528258.6135,Recyclable
+2023,66.48015931,Patch Injector,Type1 Plastic,1095578.716,0,FALSE,'Monthly',1,1735621.135,Non-Recyclable
+2020,150.1362982,Autoinjector,Type1 Plastic,1351609.854,1,FALSE,'Monthly',1,2018861.333,Non-Recyclable
+2017,81.31355325,Autoinjector,Recyclable Plastic,725789.8009,0,TRUE,'Weekly',1,498302.1404,Recyclable
+2028,118.8726026,Pen,Recyclable Plastic,931920.619,0,TRUE,'Daily',1,593711.6407,Recyclable
+2015,107.343441,Pen,Type2 Plastic,304528.2339,0,FALSE,'Yearly',1,506328.6404,Non-Recyclable
+2023,194.9635029,Autoinjector,Type1 Plastic,505123.737,1,FALSE,'Yearly',1,693412.9775,Non-Recyclable
+2016,77.3750783,Patch Injector,Type1 Plastic,435811.7689,0,FALSE,'Weekly',1,591834.9573,Non-Recyclable
+2020,234.6852242,Patch Injector,Type1 Plastic,221029.4789,0,FALSE,'Weekly',1,306595.3881,Non-Recyclable
+2029,77.65528933,Patch Injector,Type2 Plastic,1375493.977,1,FALSE,'Weekly',1,1975240.535,Non-Recyclable
+2012,50.09412318,Pen,Type2 Plastic,261652.4661,0,FALSE,'Weekly',1,387682.5773,Non-Recyclable
+2021,149.1181315,Autoinjector,Type2 Plastic,610460.5159,0,FALSE,'Monthly',0,892051.0133,Non-Recyclable
+2030,1087.785072,Patch Injector,Type1 Plastic,256840.3085,0,FALSE,'Monthly',1,347465.3029,Non-Recyclable
+2026,81.2884179,Patch Injector,Recyclable Plastic,331357.2601,0,TRUE,'Monthly',1,254944.2066,Recyclable
+2024,228.0986455,Patch Injector,Recyclable Plastic,1567336.174,0,TRUE,'Monthly',0,1161050.811,Recyclable
+2021,105.8168353,Autoinjector,Type1 Plastic,326790.6721,0,FALSE,'Weekly',1,442757.3188,Non-Recyclable
+2016,116.0994501,Autoinjector,Recyclable Plastic,1186011.27,0,TRUE,'Monthly',0,821650.9058,Recyclable
+2025,584.6116602,Patch Injector,Type2 Plastic,1323698.356,0,FALSE,'Monthly',1,1718739.913,Non-Recyclable
+2027,80.58220421,Patch Injector,Type2 Plastic,823561.8091,1,FALSE,'Monthly',1,1056823.755,Non-Recyclable
+2026,499.0681637,Patch Injector,Type1 Plastic,524218.5674,1,FALSE,'Yearly',1,672676.2241,Non-Recyclable
+2014,65.11026281,Pen,Type2 Plastic,259562.4061,0,FALSE,'Weekly',1,358245.4512,Non-Recyclable
+2017,81.52267331,Autoinjector,Type2 Plastic,1015960.926,0,FALSE,'Weekly',1,1281805.004,Non-Recyclable
+2017,77.73276645,Patch Injector,Recyclable Plastic,1086063.001,0,TRUE,'Daily',1,745559.4685,Recyclable
+2024,473.992069,Pen,Recyclable Plastic,152279.8751,0,TRUE,'Monthly',1,108184.7446,Recyclable
+2023,155.3249824,Pen,Type1 Plastic,1132231.276,0,FALSE,'Monthly',1,1549659.078,Non-Recyclable
+2028,71.48872877,Pen,Type2 Plastic,1633382.062,0,FALSE,'Monthly',1,2158285.959,Non-Recyclable
+2019,249.4443937,Pen,Type2 Plastic,1239636.664,0,FALSE,'Yearly',0,1914596.349,Non-Recyclable
+2016,87.52904367,Pen,Recyclable Plastic,1136481.109,0,TRUE,'Yearly',1,685736.4985,Recyclable
+2023,108.7770206,Patch Injector,Recyclable Plastic,1475666.93,0,TRUE,'Weekly',1,1186007.47,Recyclable
+2010,50,Patch Injector,Recyclable Plastic,955059,0,TRUE,'Weekly',0,617435.6278,Recyclable
+2020,244.1072754,Patch Injector,Type1 Plastic,287536.9473,0,FALSE,'Weekly',1,447954.8499,Non-Recyclable
+2015,80.9170183,Autoinjector,Type2 Plastic,411436.9362,0,FALSE,'Yearly',1,579168.4659,Non-Recyclable
+2026,262.6879049,Patch Injector,Type2 Plastic,1165744.715,0,FALSE,'Yearly',1,1544536.758,Non-Recyclable
+2018,53.71080233,Pen,Recyclable Plastic,686460.7647,1,TRUE,'Weekly',0,566410.728,Recyclable
+2013,70.41623415,Patch Injector,Type2 Plastic,688884.3312,0,FALSE,'Monthly',1,976199.426,Non-Recyclable
+2030,70.78375584,Pen,Type2 Plastic,221793.2803,0,FALSE,'Weekly',1,297950.5896,Non-Recyclable
+2016,137.1871072,Autoinjector,Type2 Plastic,78243.69508,0,FALSE,'Monthly',1,114115.0338,Non-Recyclable
+2022,92.94120491,Patch Injector,Type1 Plastic,152074.7757,0,FALSE,'Monthly',1,201387.3693,Non-Recyclable
+2012,51.6646635,Autoinjector,Recyclable Plastic,478545.0114,0,TRUE,'Monthly',1,314920.4572,Recyclable
+2027,123.4686169,Patch Injector,Recyclable Plastic,839688.9875,1,TRUE,'Monthly',1,614007.392,Recyclable
+2014,72.52227785,Pen,Recyclable Plastic,103697.84,0,TRUE,'Daily',1,67422.73658,Recyclable
+2023,58.33104945,Autoinjector,Recyclable Plastic,337706.1439,1,TRUE,'Weekly',1,272440.3478,Recyclable
+2026,52.34514132,Pen,Recyclable Plastic,1125357.984,0,TRUE,'Monthly',0,743521.0093,Recyclable
+2017,82.60843978,Autoinjector,Recyclable Plastic,111102.1207,0,TRUE,'Monthly',1,66769.95988,Recyclable
+2028,881.7625622,Autoinjector,Type2 Plastic,1443307.128,0,FALSE,'Monthly',1,2062973.213,Non-Recyclable
+2029,195.3943823,Patch Injector,Type2 Plastic,805985.5957,0,FALSE,'Weekly',1,1095227.605,Non-Recyclable
+2026,822.6237115,Autoinjector,Type2 Plastic,1672310.014,0,FALSE,'Weekly',1,2319390.972,Non-Recyclable
+2012,70.50264782,Patch Injector,Type1 Plastic,281290.3516,0,FALSE,'Monthly',1,402485.8151,Non-Recyclable
+2026,147.0303561,Pen,Type1 Plastic,38305.71307,0,FALSE,'Weekly',0,51206.52979,Non-Recyclable
+2016,93.48050889,Autoinjector,Type2 Plastic,911263.0337,0,FALSE,'Daily',1,1364343.358,Non-Recyclable
+2030,80.43954963,Pen,Recyclable Plastic,2199220.314,0,TRUE,'Monthly',1,1482513.479,Recyclable
+2013,70.26699603,Patch Injector,Type1 Plastic,857806.588,1,FALSE,'Monthly',0,1273293.254,Non-Recyclable
+2021,173.9489943,Pen,Type1 Plastic,429669.8181,0,FALSE,'Yearly',1,556082.6015,Non-Recyclable
+2010,50,Autoinjector,Type2 Plastic,569673,0,FALSE,'Monthly',0,874611.2418,Non-Recyclable
+2019,54.37149879,Autoinjector,Type2 Plastic,466367.8631,0,FALSE,'Weekly',1,630045.0012,Non-Recyclable
+2012,63.6524609,Patch Injector,Type1 Plastic,418886.5937,0,FALSE,'Monthly',0,603219.135,Non-Recyclable
+2017,169.9743625,Autoinjector,Recyclable Plastic,1233968.269,0,TRUE,'Yearly',1,746870.9565,Recyclable
+2016,122.9232712,Autoinjector,Type1 Plastic,889421.5268,0,FALSE,'Monthly',1,1404092.468,Non-Recyclable
+2024,206.4546981,Patch Injector,Type2 Plastic,1186561.483,0,FALSE,'Daily',1,1812138.446,Non-Recyclable
+2023,70.8210043,Patch Injector,Type1 Plastic,1226964.018,1,FALSE,'Monthly',0,1719050.589,Non-Recyclable
+2026,146.5443599,Patch Injector,Type2 Plastic,1299188.788,1,FALSE,'Weekly',1,2068958.436,Non-Recyclable
+2015,120.4166642,Pen,Type2 Plastic,1068548.672,0,FALSE,'Weekly',1,1403395.591,Non-Recyclable
+2021,69.47802231,Autoinjector,Recyclable Plastic,661955.2659,1,TRUE,'Yearly',1,472216.8304,Recyclable
+2028,140.168508,Patch Injector,Type1 Plastic,1364446.768,0,FALSE,'Weekly',1,1926619.071,Non-Recyclable
+2014,90.73457237,Autoinjector,Recyclable Plastic,1176221.641,0,TRUE,'Monthly',0,813789.4001,Recyclable
+2021,200.4025527,Pen,Type2 Plastic,765728.6039,0,FALSE,'Monthly',1,1108565.593,Non-Recyclable
+2019,66.40954396,Pen,Type1 Plastic,273322.6182,0,FALSE,'Weekly',1,429321.7656,Non-Recyclable
+2025,736.8625749,Autoinjector,Type1 Plastic,880588.3467,0,FALSE,'Monthly',1,1367889.926,Non-Recyclable
+2020,211.8240164,Autoinjector,Type2 Plastic,1540873.343,0,FALSE,'Monthly',1,2049255.961,Non-Recyclable
+2023,58.83146214,Pen,Type2 Plastic,468685.6131,0,FALSE,'Weekly',1,620076.3646,Non-Recyclable
+2021,85.23605932,Autoinjector,Recyclable Plastic,888086.855,0,TRUE,'Monthly',1,557940.7859,Recyclable
+2010,50,Autoinjector,Recyclable Plastic,739578,0,TRUE,'Weekly',1,581931.2457,Recyclable
+2016,69.70005702,Patch Injector,Type2 Plastic,296942.6559,1,FALSE,'Monthly',1,390146.7606,Non-Recyclable
+2030,1464.670875,Patch Injector,Recyclable Plastic,1400554.686,0,TRUE,'Yearly',1,1011419.723,Recyclable
+2016,98.73744804,Autoinjector,Type2 Plastic,639068.5291,0,FALSE,'Yearly',0,737765.3263,Non-Recyclable
+2029,369.3781396,Patch Injector,Type1 Plastic,1253200.459,0,FALSE,'Weekly',1,1865800.756,Non-Recyclable
+2019,62.60094238,Patch Injector,Type1 Plastic,803310.2142,0,FALSE,'Monthly',1,1012135.638,Non-Recyclable
+2019,204.3754534,Pen,Type1 Plastic,559178.9629,0,FALSE,'Weekly',1,781549.8895,Non-Recyclable
+2029,826.9490934,Patch Injector,Type1 Plastic,2143189.862,0,FALSE,'Daily',1,3660017.951,Non-Recyclable
+2012,55.40479501,Patch Injector,Recyclable Plastic,1035035.491,0,TRUE,'Yearly',1,711766.8663,Recyclable
+2015,82.05346836,Autoinjector,Type1 Plastic,796702.8055,0,FALSE,'Monthly',1,1062536.415,Non-Recyclable
+2025,490.9012057,Pen,Type2 Plastic,1919927.912,0,FALSE,'Daily',1,2782556.534,Non-Recyclable
+2020,99.37132022,Patch Injector,Recyclable Plastic,715541.5318,0,TRUE,'Daily',1,524932.6346,Recyclable
+2022,71.07742503,Autoinjector,Type2 Plastic,1624576.402,0,FALSE,'Monthly',1,2151190.227,Non-Recyclable
+2027,152.0166852,Autoinjector,Type2 Plastic,781837.4107,0,FALSE,'Weekly',1,1224915.115,Non-Recyclable
+2014,93.67240319,Pen,Type1 Plastic,417289.6863,1,FALSE,'Monthly',1,527894.8714,Non-Recyclable
+2022,294.7289455,Autoinjector,Type2 Plastic,1321252.745,1,FALSE,'Monthly',1,1618388.459,Non-Recyclable
+2030,1773.168133,Pen,Type1 Plastic,1497438.061,0,FALSE,'Monthly',1,1849094.672,Non-Recyclable
+2024,222.1829036,Autoinjector,Type2 Plastic,804823.7799,1,FALSE,'Weekly',1,1204306.692,Non-Recyclable
+2015,100.3485435,Pen,Type1 Plastic,191604.2115,1,FALSE,'Monthly',1,252776.3819,Non-Recyclable
+2011,52.37688469,Pen,Recyclable Plastic,420866.435,0,TRUE,'Monthly',1,334417.5964,Recyclable
+2017,76.75897294,Autoinjector,Type2 Plastic,151036.6111,1,FALSE,'Yearly',1,193750.0785,Non-Recyclable
+2027,115.3089376,Pen,Type2 Plastic,1965801.821,0,FALSE,'Daily',1,2544842.624,Non-Recyclable
+2028,86.08153834,Autoinjector,Type1 Plastic,1445259.423,1,FALSE,'Daily',1,2185256.193,Non-Recyclable
+2021,92.66458756,Patch Injector,Type2 Plastic,1143410.325,0,FALSE,'Weekly',1,1574147.02,Non-Recyclable
+2026,579.8369031,Autoinjector,Type2 Plastic,1415594.391,0,FALSE,'Weekly',1,1714932.829,Non-Recyclable
+2021,262.8094963,Pen,Type1 Plastic,36465.50794,1,FALSE,'Monthly',1,50742.78596,Non-Recyclable
+2013,63.90263376,Patch Injector,Type2 Plastic,892228.723,0,FALSE,'Monthly',1,1137582.925,Non-Recyclable
+2022,168.3462976,Patch Injector,Type1 Plastic,779332.1371,0,FALSE,'Weekly',1,1101653.014,Non-Recyclable
+2028,52.42057425,Pen,Type1 Plastic,966456.8099,1,FALSE,'Weekly',1,1232787.968,Non-Recyclable
+2013,63.09803052,Pen,Type2 Plastic,123299.5763,0,FALSE,'Weekly',1,169996.4073,Non-Recyclable
+2021,98.11976453,Pen,Type1 Plastic,1095622.171,1,FALSE,'Monthly',1,1500187.832,Non-Recyclable
+2012,53.99784816,Patch Injector,Type2 Plastic,721919.1631,0,FALSE,'Yearly',1,1077120.534,Non-Recyclable
+2011,50.9857968,Pen,Type1 Plastic,582573.915,0,FALSE,'Monthly',1,826670.8667,Non-Recyclable
+2020,275.3398822,Patch Injector,Type2 Plastic,1056123.256,0,FALSE,'Monthly',1,1370006.76,Non-Recyclable
+2025,610.3805919,Pen,Recyclable Plastic,1295884.477,0,TRUE,'Weekly',1,1033616.584,Recyclable
+2018,185.8802949,Autoinjector,Recyclable Plastic,853453.7734,0,TRUE,'Daily',1,625007.8143,Recyclable
+2018,67.31699542,Patch Injector,Type2 Plastic,109085.0717,0,FALSE,'Weekly',1,151797.3888,Non-Recyclable
+2018,104.9583703,Autoinjector,Type1 Plastic,1382291.75,1,FALSE,'Daily',1,1942205.378,Non-Recyclable
+2020,122.5599137,Patch Injector,Type1 Plastic,773313.5473,0,FALSE,'Weekly',1,1049661.427,Non-Recyclable
+2029,423.2484789,Patch Injector,Recyclable Plastic,1288718.429,0,TRUE,'Yearly',1,877239.9353,Recyclable
+2027,290.6754161,Patch Injector,Type2 Plastic,611281.562,0,FALSE,'Weekly',1,754189.2053,Non-Recyclable
+2013,72.79031706,Autoinjector,Type2 Plastic,688503.1817,0,FALSE,'Daily',1,964544.4179,Non-Recyclable
+2028,163.3540253,Pen,Type1 Plastic,1880515.253,0,FALSE,'Monthly',1,2841732.716,Non-Recyclable
+2020,173.7896992,Autoinjector,Recyclable Plastic,557612.3065,0,TRUE,'Daily',1,426880.8049,Recyclable
+2021,113.9450344,Pen,Type2 Plastic,1611869.576,1,FALSE,'Weekly',1,2250297.739,Non-Recyclable
+2011,57.94911359,Pen,Type1 Plastic,652872.11,0,FALSE,'Weekly',1,898060.5209,Non-Recyclable
+2028,620.6208286,Patch Injector,Recyclable Plastic,2028640.132,0,TRUE,'Monthly',1,1593310.901,Recyclable
+2010,50,Pen,Type1 Plastic,526408,0,FALSE,'Weekly',1,850655.1004,Non-Recyclable
+2021,115.186493,Patch Injector,Recyclable Plastic,1240625.714,0,TRUE,'Weekly',0,944145.4992,Recyclable
+2022,88.72565369,Patch Injector,Type1 Plastic,1570369.248,0,FALSE,'Weekly',0,2160337.178,Non-Recyclable
+2022,200.6438612,Patch Injector,Recyclable Plastic,1290126.537,0,TRUE,'Weekly',1,933664.9339,Recyclable
+2019,153.7552646,Autoinjector,Recyclable Plastic,283774.3253,0,TRUE,'Daily',1,171548.1165,Recyclable
+2020,152.8653563,Patch Injector,Type2 Plastic,669629.5439,0,FALSE,'Weekly',1,1008070.453,Non-Recyclable
+2013,80.19775617,Patch Injector,Recyclable Plastic,171695.2905,1,TRUE,'Yearly',1,112985.0344,Recyclable
+2010,50,Pen,Recyclable Plastic,234554,0,TRUE,'Yearly',1,168087.8782,Recyclable
+2012,57.27881741,Patch Injector,Recyclable Plastic,85749.07907,0,TRUE,'Yearly',1,54981.28763,Recyclable
+2018,82.78662446,Autoinjector,Recyclable Plastic,630845.254,0,TRUE,'Monthly',1,487422.0478,Recyclable
+2023,111.2148714,Autoinjector,Recyclable Plastic,675816.3485,0,TRUE,'Monthly',1,483867.1764,Recyclable
+2024,333.192612,Patch Injector,Type1 Plastic,1363700.014,0,FALSE,'Monthly',1,1833188.055,Non-Recyclable
+2027,236.3694211,Patch Injector,Recyclable Plastic,388652.1087,0,TRUE,'Weekly',1,249276.1028,Recyclable
+2029,161.8804739,Patch Injector,Type1 Plastic,484253.7133,1,FALSE,'Monthly',1,702951.7764,Non-Recyclable
+2014,61.79873419,Autoinjector,Type2 Plastic,214743.9795,0,FALSE,'Daily',1,327931.3899,Non-Recyclable
+2012,55.37868546,Patch Injector,Type1 Plastic,325546.8488,0,FALSE,'Monthly',1,412963.5657,Non-Recyclable
+2015,71.3935561,Autoinjector,Recyclable Plastic,494630.7961,0,TRUE,'Monthly',0,355562.0862,Recyclable
+2018,184.4635522,Patch Injector,Type1 Plastic,1159073.15,0,FALSE,'Monthly',0,1619444.059,Non-Recyclable
+2024,193.3032619,Patch Injector,Type2 Plastic,1069529.675,0,FALSE,'Yearly',1,1636030.016,Non-Recyclable
+2016,68.98667035,Patch Injector,Type2 Plastic,1111087.036,0,FALSE,'Monthly',1,1582566.238,Non-Recyclable
+2013,54.29325203,Autoinjector,Type2 Plastic,100178.4094,1,FALSE,'Weekly',1,126977.6959,Non-Recyclable
+2010,50,Autoinjector,Recyclable Plastic,327965,0,TRUE,'Yearly',1,229671.4041,Recyclable
+2026,60.68383665,Pen,Type1 Plastic,933631.2259,0,FALSE,'Monthly',1,1352153.159,Non-Recyclable
+2030,51.59100804,Patch Injector,Type2 Plastic,393106.9743,0,FALSE,'Weekly',1,625383.4269,Non-Recyclable
+2016,126.0225201,Autoinjector,Type2 Plastic,813092.1542,0,FALSE,'Weekly',1,1245663.691,Non-Recyclable
+2028,342.8372172,Pen,Recyclable Plastic,121896.9855,0,TRUE,'Monthly',1,90486.87827,Recyclable
+2011,52.88518004,Pen,Type1 Plastic,960435.465,0,FALSE,'Weekly',1,1220824.953,Non-Recyclable
+2010,50,Patch Injector,Type2 Plastic,237486,1,FALSE,'Daily',0,355324.0709,Non-Recyclable
+2029,1587.148913,Autoinjector,Type1 Plastic,484089.8552,0,FALSE,'Daily',1,642355.4215,Non-Recyclable
+2030,495.7572825,Pen,Type1 Plastic,1805158.301,1,FALSE,'Monthly',1,2499073.954,Non-Recyclable
+2021,60.7276819,Patch Injector,Type1 Plastic,1458863.745,0,FALSE,'Yearly',0,1960027.601,Non-Recyclable
+2010,50,Autoinjector,Type1 Plastic,469748,0,FALSE,'Monthly',1,731924.6626,Non-Recyclable
+2022,71.219521,Autoinjector,Type2 Plastic,1248591.009,0,FALSE,'Monthly',1,1846009.821,Non-Recyclable
+2030,456.5961208,Autoinjector,Type1 Plastic,612054.4321,1,FALSE,'Weekly',1,922235.7142,Non-Recyclable
+2012,53.38706207,Autoinjector,Type1 Plastic,246834.7788,0,FALSE,'Monthly',1,326420.6497,Non-Recyclable
+2021,336.011155,Pen,Type2 Plastic,310841.2724,1,FALSE,'Monthly',1,425418.3561,Non-Recyclable
+2030,652.3866896,Pen,Type2 Plastic,1438341.421,0,FALSE,'Monthly',0,1791956.672,Non-Recyclable
+2012,61.78962522,Autoinjector,Type2 Plastic,946779.1228,1,FALSE,'Monthly',1,1244850.998,Non-Recyclable
+2026,209.5808561,Autoinjector,Recyclable Plastic,1775254.722,0,TRUE,'Monthly',1,1324800.408,Recyclable
+2024,55.04089189,Autoinjector,Type1 Plastic,1294959.523,1,FALSE,'Monthly',1,1735921.996,Non-Recyclable
+2026,308.713497,Pen,Type2 Plastic,1050908.471,0,FALSE,'Weekly',1,1418801.695,Non-Recyclable
+2014,71.0173684,Patch Injector,Type1 Plastic,970350.0003,0,FALSE,'Daily',1,1212927.047,Non-Recyclable
+2028,366.3487272,Autoinjector,Type2 Plastic,402758.0641,0,FALSE,'Weekly',1,531380.8642,Non-Recyclable
+2014,71.98336265,Pen,Type2 Plastic,314815.3704,0,FALSE,'Monthly',0,470869.3536,Non-Recyclable
+2023,83.68852749,Autoinjector,Type1 Plastic,1243294.805,0,FALSE,'Monthly',1,1727181.293,Non-Recyclable
+2021,79.71532332,Autoinjector,Recyclable Plastic,456531.2817,0,TRUE,'Weekly',0,384202.4454,Recyclable
+2013,50.82713873,Autoinjector,Type1 Plastic,1006284.854,0,FALSE,'Daily',1,1469768.699,Non-Recyclable
+2019,65.92682795,Autoinjector,Recyclable Plastic,603055.9219,0,TRUE,'Weekly',1,348314.2995,Recyclable
+2017,58.17802317,Patch Injector,Type2 Plastic,535485.5217,0,FALSE,'Daily',1,691871.6403,Non-Recyclable
+2017,59.20198731,Patch Injector,Type1 Plastic,1358138.746,0,FALSE,'Monthly',1,2025829.271,Non-Recyclable
+2018,159.7440387,Pen,Type2 Plastic,1167607.176,1,FALSE,'Monthly',0,1492908.893,Non-Recyclable
+2030,102.7738465,Autoinjector,Type1 Plastic,2124527.119,0,FALSE,'Yearly',1,2797475.202,Non-Recyclable
+2025,60.54774593,Patch Injector,Type1 Plastic,59355.11253,0,FALSE,'Monthly',1,95071.11869,Non-Recyclable
+2010,50,Patch Injector,Type1 Plastic,205165,0,FALSE,'Monthly',0,296398.7591,Non-Recyclable
+2016,95.73990897,Pen,Type1 Plastic,371037.3503,0,FALSE,'Daily',1,583730.5064,Non-Recyclable
+2025,558.1860585,Pen,Type2 Plastic,1761730.184,0,FALSE,'Weekly',1,2651181.721,Non-Recyclable
+2028,133.9565212,Pen,Type2 Plastic,1949000.179,0,FALSE,'Yearly',1,2555372.843,Non-Recyclable
+2020,202.8951516,Autoinjector,Recyclable Plastic,822873.4605,0,TRUE,'Weekly',1,651539.8324,Recyclable
+2016,78.52220617,Patch Injector,Type2 Plastic,1197363.072,0,FALSE,'Yearly',1,1728050.659,Non-Recyclable
+2025,476.5900746,Pen,Type2 Plastic,1680657.332,0,FALSE,'Monthly',1,2135487.699,Non-Recyclable
+2017,172.2543819,Pen,Type1 Plastic,355194.4638,0,FALSE,'Weekly',1,449525.0842,Non-Recyclable
+2015,57.93982355,Autoinjector,Recyclable Plastic,519995.5833,1,TRUE,'Monthly',1,402384.5168,Recyclable
+2029,808.505003,Pen,Type1 Plastic,2202578.031,0,FALSE,'Monthly',0,3017019.338,Non-Recyclable
+2026,821.0833798,Pen,Recyclable Plastic,1766325.957,0,TRUE,'Monthly',1,1256662.535,Recyclable
+2011,53.20133373,Pen,Type1 Plastic,887387.875,0,FALSE,'Weekly',1,1294075.765,Non-Recyclable
+2019,234.3062058,Pen,Recyclable Plastic,914617.2542,0,TRUE,'Weekly',1,600786.4714,Recyclable
+2024,58.34679663,Pen,Type1 Plastic,331005.5236,0,FALSE,'Monthly',1,470131.6098,Non-Recyclable
+2012,63.97483724,Autoinjector,Recyclable Plastic,26275.21352,0,TRUE,'Weekly',1,17727.49139,Recyclable
+2025,63.59469843,Patch Injector,Type1 Plastic,642374.4308,0,FALSE,'Daily',1,920691.7017,Non-Recyclable
+2013,68.1467057,Autoinjector,Type1 Plastic,1079833.01,1,FALSE,'Daily',1,1740133.856,Non-Recyclable
+2016,101.6622647,Pen,Type1 Plastic,460638.0559,0,FALSE,'Weekly',1,625478.7588,Non-Recyclable
+2017,72.63900723,Pen,Recyclable Plastic,1333426.856,0,TRUE,'Monthly',0,948783.108,Recyclable
+2026,167.6518082,Autoinjector,Type1 Plastic,395146.8595,1,FALSE,'Daily',1,507576.2994,Non-Recyclable
+2028,440.9556507,Autoinjector,Type2 Plastic,126848.3949,0,FALSE,'Monthly',1,163555.0002,Non-Recyclable
+2015,124.2864532,Pen,Type2 Plastic,31745.23868,1,FALSE,'Yearly',1,42076.50269,Non-Recyclable
+2015,96.87749564,Patch Injector,Recyclable Plastic,910180.1327,0,TRUE,'Monthly',1,573482.8951,Recyclable
+2029,386.2380189,Autoinjector,Type2 Plastic,165062.7852,0,FALSE,'Weekly',1,253821.7621,Non-Recyclable
+2030,839.2702988,Patch Injector,Recyclable Plastic,1480628.415,1,TRUE,'Weekly',1,1096450.648,Recyclable
+2012,70.84508077,Pen,Type1 Plastic,758593.7307,0,FALSE,'Monthly',1,1040998.031,Non-Recyclable
+2023,54.73817449,Autoinjector,Type2 Plastic,29636.43533,0,FALSE,'Weekly',0,45281.35387,Non-Recyclable
+2030,896.9660141,Patch Injector,Recyclable Plastic,1905174.493,0,TRUE,'Monthly',1,1558744.709,Recyclable
+2016,83.04213402,Pen,Type1 Plastic,1237295.576,0,FALSE,'Weekly',0,1738376.554,Non-Recyclable
+2024,50.47955327,Pen,Type2 Plastic,1090749.26,0,FALSE,'Weekly',1,1533085.216,Non-Recyclable
+2018,161.0187427,Pen,Type2 Plastic,1117445.421,0,FALSE,'Weekly',1,1531888.949,Non-Recyclable
+2025,51.61919624,Patch Injector,Type1 Plastic,1536784.565,0,FALSE,'Daily',1,2047329.921,Non-Recyclable
+2028,957.997269,Autoinjector,Recyclable Plastic,1742147.432,0,TRUE,'Yearly',1,1208642.416,Recyclable
+2023,299.6720725,Autoinjector,Recyclable Plastic,790094.6416,0,TRUE,'Monthly',0,620896.6188,Recyclable
+2019,238.0073074,Pen,Type1 Plastic,442269.3443,0,FALSE,'Weekly',1,626715.4645,Non-Recyclable
+2010,50,Patch Injector,Type1 Plastic,17887,0,FALSE,'Monthly',1,23752.78111,Non-Recyclable
+2014,55.68510285,Autoinjector,Type1 Plastic,766857.4338,0,FALSE,'Yearly',1,1118768.903,Non-Recyclable
+2014,64.1751854,Autoinjector,Recyclable Plastic,214696.2788,0,TRUE,'Daily',1,152055.1966,Recyclable
+2022,294.0856038,Autoinjector,Type1 Plastic,712375.3464,1,FALSE,'Monthly',1,887890.698,Non-Recyclable
+2029,91.27634362,Autoinjector,Type2 Plastic,1242037.339,1,FALSE,'Yearly',1,1666521.594,Non-Recyclable
+2029,449.7201288,Patch Injector,Type1 Plastic,797289.578,0,FALSE,'Monthly',1,1116776.581,Non-Recyclable
+2020,166.6098409,Pen,Type2 Plastic,273720.1784,0,FALSE,'Weekly',1,416023.8683,Non-Recyclable
+2024,467.2964404,Autoinjector,Type2 Plastic,1777085.604,1,FALSE,'Monthly',1,2328109.326,Non-Recyclable
+2028,800.5982241,Autoinjector,Type2 Plastic,961087.998,0,FALSE,'Daily',1,1238394.157,Non-Recyclable
+2027,666.4614778,Pen,Recyclable Plastic,2088445.304,1,TRUE,'Weekly',1,1262184.385,Recyclable
+2029,50.55554121,Patch Injector,Type1 Plastic,811339.8316,0,FALSE,'Monthly',0,1234834.526,Non-Recyclable
+2010,50,Autoinjector,Type2 Plastic,614149,0,FALSE,'Daily',0,863252.296,Non-Recyclable
+2017,87.21502836,Patch Injector,Recyclable Plastic,344566.1329,1,TRUE,'Monthly',1,253210.4767,Recyclable
+2021,174.2276338,Autoinjector,Type2 Plastic,1075033.034,0,FALSE,'Monthly',0,1407358.672,Non-Recyclable
+2017,97.6001816,Autoinjector,Recyclable Plastic,949955.0442,0,TRUE,'Weekly',1,734061.8875,Recyclable
+2024,151.7596376,Patch Injector,Recyclable Plastic,1743446.876,0,TRUE,'Weekly',1,1216948.294,Recyclable
+2016,80.81639033,Patch Injector,Type2 Plastic,1196730.173,1,FALSE,'Daily',0,1820008.534,Non-Recyclable
+2028,51.06945668,Autoinjector,Recyclable Plastic,1334652.181,0,TRUE,'Monthly',1,968476.03,Recyclable
+2016,100.2662602,Patch Injector,Type1 Plastic,704385.9902,0,FALSE,'Monthly',1,980354.1329,Non-Recyclable
+2013,58.50390474,Patch Injector,Type2 Plastic,1074235.591,1,FALSE,'Monthly',0,1557608.576,Non-Recyclable
+2012,71.87490201,Autoinjector,Recyclable Plastic,452532.9759,0,TRUE,'Monthly',1,322384.9709,Recyclable
+2030,1836.191095,Pen,Recyclable Plastic,2239539.349,1,TRUE,'Weekly',1,1706816.898,Recyclable
+2016,87.68466896,Autoinjector,Recyclable Plastic,1104853.117,0,TRUE,'Monthly',0,768252.4395,Recyclable
+2017,152.4763194,Patch Injector,Recyclable Plastic,1202453.431,0,TRUE,'Weekly',1,875933.7364,Recyclable
+2012,59.71722647,Patch Injector,Type2 Plastic,277497.7488,0,FALSE,'Monthly',0,440950.7997,Non-Recyclable
+2018,126.8913694,Pen,Recyclable Plastic,610689.822,1,TRUE,'Weekly',1,417476.327,Recyclable
+2027,63.74501565,Autoinjector,Type2 Plastic,1250958.455,1,FALSE,'Daily',1,1633748.377,Non-Recyclable
+2026,666.8682859,Pen,Recyclable Plastic,484798.5283,0,TRUE,'Monthly',0,314914.8259,Recyclable
+2026,553.5004889,Pen,Recyclable Plastic,430791.1334,0,TRUE,'Yearly',1,335504.3002,Recyclable
+2013,62.97439234,Autoinjector,Type1 Plastic,849702.0262,0,FALSE,'Monthly',1,1236066.513,Non-Recyclable
+2022,317.8494135,Pen,Recyclable Plastic,917051.2765,0,TRUE,'Weekly',1,667664.0684,Recyclable
+2010,50,Pen,Recyclable Plastic,493229,0,TRUE,'Weekly',1,348942.3735,Recyclable
+2013,62.17776041,Pen,Type1 Plastic,658821.4508,1,FALSE,'Weekly',1,861283.1786,Non-Recyclable
+2022,230.0548343,Patch Injector,Type1 Plastic,481801.6109,0,FALSE,'Yearly',1,657639.4469,Non-Recyclable
+2020,130.369371,Patch Injector,Type2 Plastic,1458842.392,1,FALSE,'Monthly',1,2071685.771,Non-Recyclable
+2022,440.7692172,Patch Injector,Type1 Plastic,1679365.243,0,FALSE,'Monthly',1,2527276.354,Non-Recyclable
+2015,95.79120898,Pen,Type2 Plastic,134970.2271,1,FALSE,'Monthly',1,172264.8186,Non-Recyclable
+2027,353.6353371,Pen,Type1 Plastic,754378.3058,1,FALSE,'Daily',1,1006854.291,Non-Recyclable
+2015,63.6054781,Patch Injector,Type2 Plastic,1066179.68,0,FALSE,'Weekly',1,1439573.689,Non-Recyclable
+2015,54.61401938,Pen,Type1 Plastic,430563.3366,0,FALSE,'Weekly',0,611794.1053,Non-Recyclable
+2011,57.1762609,Autoinjector,Type2 Plastic,798365.37,1,FALSE,'Monthly',1,1142455.643,Non-Recyclable
+2030,538.3985212,Patch Injector,Type2 Plastic,1690331.773,0,FALSE,'Yearly',1,2382501.291,Non-Recyclable
+2011,56.26734626,Patch Injector,Type1 Plastic,719516.985,0,FALSE,'Monthly',0,1024963.48,Non-Recyclable
+2030,324.8172883,Autoinjector,Type2 Plastic,942104.7315,0,FALSE,'Daily',1,1247438.878,Non-Recyclable
+2012,62.04266882,Patch Injector,Type1 Plastic,272061.6484,0,FALSE,'Yearly',0,364014.3299,Non-Recyclable
+2017,172.6404688,Patch Injector,Recyclable Plastic,1280196.745,0,TRUE,'Monthly',1,1046963.142,Recyclable
+2023,500.4623573,Patch Injector,Recyclable Plastic,54496.80219,0,TRUE,'Monthly',1,44853.87323,Recyclable
+2021,252.6983284,Autoinjector,Type1 Plastic,646942.2524,0,FALSE,'Daily',0,889504.2056,Non-Recyclable
+2016,79.16471428,Patch Injector,Type1 Plastic,1180881.668,1,FALSE,'Monthly',1,1725769.705,Non-Recyclable
+2025,201.4925419,Pen,Type2 Plastic,1274946.656,1,FALSE,'Monthly',1,1978987.01,Non-Recyclable
+2021,233.9853133,Pen,Type1 Plastic,610934.389,0,FALSE,'Daily',1,1041465.795,Non-Recyclable
+2024,261.2434769,Pen,Type1 Plastic,107559.1091,0,FALSE,'Monthly',0,181991.7329,Non-Recyclable
+2011,57.7378375,Pen,Type1 Plastic,469705.555,0,FALSE,'Monthly',1,666523.1761,Non-Recyclable
+2017,65.64641914,Pen,Recyclable Plastic,696004.618,0,TRUE,'Weekly',1,470503.7138,Recyclable
+2030,230.6001537,Pen,Recyclable Plastic,77006.02881,0,TRUE,'Weekly',1,58305.55034,Recyclable
+2030,139.9856125,Patch Injector,Type1 Plastic,1016231.174,0,FALSE,'Weekly',1,1361164.929,Non-Recyclable
+2016,53.6553096,Autoinjector,Type2 Plastic,77050.82481,0,FALSE,'Monthly',1,101626.4045,Non-Recyclable
+2012,62.08483039,Autoinjector,Recyclable Plastic,983617.4942,0,TRUE,'Monthly',1,668172.3822,Recyclable
+2018,60.41325655,Autoinjector,Recyclable Plastic,1046242.265,0,TRUE,'Monthly',1,690886.9888,Recyclable
+2022,342.2825674,Autoinjector,Recyclable Plastic,80863.01848,0,TRUE,'Weekly',0,51399.62052,Recyclable
+2029,190.0098219,Patch Injector,Type1 Plastic,243419.2584,0,FALSE,'Weekly',1,362154.7523,Non-Recyclable
+2017,161.063332,Autoinjector,Recyclable Plastic,370064.601,0,TRUE,'Daily',1,241120.0227,Recyclable
+2022,164.7836692,Patch Injector,Recyclable Plastic,732520.722,0,TRUE,'Monthly',1,555432.6222,Recyclable
+2014,62.93638404,Pen,Type1 Plastic,439291.6545,1,FALSE,'Weekly',1,667863.0429,Non-Recyclable
+2030,175.8168227,Patch Injector,Type2 Plastic,445479.7561,1,FALSE,'Monthly',0,694329.4005,Non-Recyclable
+2026,466.7554427,Patch Injector,Type2 Plastic,442466.2763,0,FALSE,'Weekly',1,556587.2936,Non-Recyclable
+2020,102.0157478,Pen,Type1 Plastic,1099820.709,0,FALSE,'Monthly',1,1566065.651,Non-Recyclable
+2027,401.9167899,Pen,Type2 Plastic,995066.5639,0,FALSE,'Monthly',1,1479539.565,Non-Recyclable
+2025,208.2879327,Autoinjector,Recyclable Plastic,944081.0931,0,TRUE,'Monthly',1,612103.8928,Recyclable
+2012,51.28973391,Pen,Type2 Plastic,603258.6345,0,FALSE,'Monthly',1,816082.2854,Non-Recyclable
+2015,84.87674029,Pen,Recyclable Plastic,74198.91875,0,TRUE,'Monthly',1,56588.58615,Recyclable
+2012,61.23075263,Autoinjector,Type1 Plastic,245296.1156,0,FALSE,'Weekly',1,356772.1091,Non-Recyclable
+2029,449.1181196,Autoinjector,Recyclable Plastic,826234.762,0,TRUE,'Weekly',1,634540.0654,Recyclable
+2018,146.1301035,Pen,Recyclable Plastic,27425.21032,0,TRUE,'Monthly',1,17315.62382,Recyclable
+2027,63.47162725,Pen,Type1 Plastic,2083738.814,0,FALSE,'Monthly',1,2844554.021,Non-Recyclable
+2019,128.7717951,Pen,Recyclable Plastic,115494.856,0,TRUE,'Monthly',1,82563.24266,Recyclable
+2023,281.7234268,Autoinjector,Recyclable Plastic,1365367.217,0,TRUE,'Daily',1,975226.9587,Recyclable
+2028,55.81846525,Patch Injector,Type1 Plastic,1333053.243,0,FALSE,'Weekly',1,1735707.24,Non-Recyclable
+2028,167.1660242,Patch Injector,Recyclable Plastic,1651204.485,0,TRUE,'Weekly',1,1088881.112,Recyclable
+2030,813.4115413,Pen,Recyclable Plastic,2051336.422,1,TRUE,'Monthly',1,1376912.814,Recyclable
+2016,120.0858397,Pen,Type1 Plastic,1046707.202,0,FALSE,'Monthly',1,1612235.506,Non-Recyclable
+2015,87.0601987,Patch Injector,Recyclable Plastic,991579.4907,0,TRUE,'Monthly',0,742630.4693,Recyclable
+2013,56.77860186,Patch Injector,Type1 Plastic,680502.466,0,FALSE,'Yearly',0,904538.1806,Non-Recyclable
+2021,57.88668162,Autoinjector,Type1 Plastic,620828.924,0,FALSE,'Monthly',1,1020161.154,Non-Recyclable
+2028,73.1210752,Autoinjector,Recyclable Plastic,1706970.783,0,TRUE,'Yearly',1,1186518.675,Recyclable
+2018,61.0991038,Pen,Type1 Plastic,1188809.274,0,FALSE,'Daily',1,1476109.893,Non-Recyclable
+2028,1167.223427,Pen,Type1 Plastic,984126.8485,0,FALSE,'Weekly',1,1393509.113,Non-Recyclable
+2030,1317.203974,Pen,Type1 Plastic,1857654.08,0,FALSE,'Monthly',1,2639153.069,Non-Recyclable
+2023,235.6190713,Pen,Type1 Plastic,533640.1444,0,FALSE,'Weekly',1,689609.0907,Non-Recyclable
+2027,593.7042088,Pen,Recyclable Plastic,1831993.368,0,TRUE,'Daily',1,1496594.048,Recyclable
+2019,52.75541517,Pen,Type1 Plastic,614592.4785,0,FALSE,'Monthly',1,820169.2334,Non-Recyclable
+2017,62.03555165,Autoinjector,Type2 Plastic,914593.0495,0,FALSE,'Monthly',0,1394428.061,Non-Recyclable
+2025,280.5042923,Pen,Recyclable Plastic,1116630.876,0,TRUE,'Weekly',1,796743.8628,Recyclable
+2030,549.4444372,Pen,Recyclable Plastic,1727202.057,1,TRUE,'Daily',1,1243028.359,Recyclable
+2019,109.6184393,Autoinjector,Type1 Plastic,452825.078,0,FALSE,'Monthly',1,608611.8389,Non-Recyclable
+2010,50,Pen,Type2 Plastic,214893,1,FALSE,'Monthly',1,275130.9531,Non-Recyclable
+2028,78.14430507,Patch Injector,Type1 Plastic,1802549.327,1,FALSE,'Weekly',1,2496297.54,Non-Recyclable
+2019,209.5418478,Autoinjector,Type2 Plastic,543512.5479,0,FALSE,'Weekly',1,765741.336,Non-Recyclable
+2013,83.3184194,Autoinjector,Type1 Plastic,688520.2992,0,FALSE,'Weekly',1,958738.7221,Non-Recyclable
+2020,151.1404776,Pen,Type2 Plastic,1080219.129,0,FALSE,'Monthly',0,1574559.366,Non-Recyclable
+2015,110.2335028,Autoinjector,Type2 Plastic,188718.0541,0,FALSE,'Monthly',1,267729.3738,Non-Recyclable
+2029,467.5101976,Pen,Recyclable Plastic,2125564.733,0,TRUE,'Monthly',1,1467686.974,Recyclable
+2019,241.5319677,Autoinjector,Type1 Plastic,838335.9906,0,FALSE,'Monthly',1,1168822.286,Non-Recyclable
+2019,111.5257193,Pen,Recyclable Plastic,668586.7732,1,TRUE,'Weekly',1,491886.7801,Recyclable
+2012,67.39162525,Pen,Type2 Plastic,862270.5842,0,FALSE,'Monthly',1,1145642.408,Non-Recyclable
+2013,57.81110004,Autoinjector,Recyclable Plastic,1001518.203,0,TRUE,'Monthly',1,734358.7618,Recyclable
+2025,275.9356807,Autoinjector,Type2 Plastic,809629.2806,0,FALSE,'Weekly',1,1166057.262,Non-Recyclable
+2030,173.1472711,Pen,Recyclable Plastic,558519.2042,0,TRUE,'Monthly',1,425701.4271,Recyclable
+2026,118.4438921,Autoinjector,Recyclable Plastic,295791.8586,0,TRUE,'Yearly',1,219493.7505,Recyclable
+2011,53.67586907,Autoinjector,Type1 Plastic,454914.625,0,FALSE,'Yearly',1,618731.3828,Non-Recyclable
+2012,55.50432195,Patch Injector,Recyclable Plastic,884782.6795,0,TRUE,'Weekly',0,683354.1069,Recyclable
+2010,50,Patch Injector,Type2 Plastic,441663,1,FALSE,'Daily',1,719779.3821,Non-Recyclable
+2019,152.144044,Autoinjector,Type2 Plastic,197120.1177,0,FALSE,'Yearly',1,327533.8154,Non-Recyclable
+2021,197.8787447,Autoinjector,Type2 Plastic,992093.8839,1,FALSE,'Monthly',0,1511048.532,Non-Recyclable
+2017,63.80574505,Pen,Type2 Plastic,364170.7084,1,FALSE,'Monthly',1,535479.6107,Non-Recyclable
+2015,108.2419457,Patch Injector,Recyclable Plastic,561068.4938,0,TRUE,'Daily',1,354428.018,Recyclable
+2017,147.8175143,Autoinjector,Type1 Plastic,346577.4867,0,FALSE,'Daily',1,404295.7158,Non-Recyclable
+2016,65.48612387,Pen,Type1 Plastic,481233.2998,0,FALSE,'Monthly',1,594195.2538,Non-Recyclable
+2023,67.8106839,Patch Injector,Recyclable Plastic,86192.52939,0,TRUE,'Daily',1,61727.27382,Recyclable
+2010,50,Autoinjector,Type2 Plastic,940295,0,FALSE,'Monthly',1,1335782.478,Non-Recyclable
+2021,135.6950343,Pen,Recyclable Plastic,127403.7012,1,TRUE,'Monthly',1,81935.09097,Recyclable
+2024,283.0187559,Pen,Type2 Plastic,808223.9507,1,FALSE,'Monthly',1,1173838.89,Non-Recyclable
+2016,69.30419081,Patch Injector,Type2 Plastic,1133956.026,0,FALSE,'Weekly',0,1583585.909,Non-Recyclable
+2020,51.74418434,Autoinjector,Recyclable Plastic,451400.0688,0,TRUE,'Weekly',1,298614.3032,Recyclable
+2017,67.50427669,Autoinjector,Type1 Plastic,617375.3823,1,FALSE,'Monthly',1,837630.6025,Non-Recyclable
+2018,57.93219473,Patch Injector,Recyclable Plastic,1249096.385,0,TRUE,'Monthly',0,913000.2916,Recyclable
+2016,134.967439,Pen,Type1 Plastic,975279.5369,1,FALSE,'Weekly',1,1342222.763,Non-Recyclable
+2014,83.75072936,Pen,Type1 Plastic,909293.0479,0,FALSE,'Monthly',1,1386230.241,Non-Recyclable
+2027,859.4493877,Patch Injector,Type1 Plastic,169139.8862,0,FALSE,'Daily',1,244260.526,Non-Recyclable
+2010,50,Patch Injector,Type2 Plastic,870117,0,FALSE,'Weekly',0,1160416.356,Non-Recyclable
+2020,234.0873641,Patch Injector,Type2 Plastic,1134080.768,0,FALSE,'Monthly',0,1643169.638,Non-Recyclable
+2015,53.26817589,Patch Injector,Recyclable Plastic,640658.3956,0,TRUE,'Monthly',0,377543.1586,Recyclable
+2017,107.0444605,Autoinjector,Type2 Plastic,1019501.888,0,FALSE,'Yearly',1,1145746.914,Non-Recyclable
+2019,50.23344565,Patch Injector,Type2 Plastic,646206.1804,1,FALSE,'Monthly',0,871555.3427,Non-Recyclable
+2019,192.4338002,Patch Injector,Type1 Plastic,254370.4469,0,FALSE,'Daily',1,384300.6469,Non-Recyclable
+2019,94.96942667,Patch Injector,Type1 Plastic,277587.7113,1,FALSE,'Weekly',1,443944.1091,Non-Recyclable
+2026,98.44130207,Patch Injector,Recyclable Plastic,1972882.755,0,TRUE,'Weekly',1,1579268.152,Recyclable
+2017,65.40629552,Patch Injector,Type2 Plastic,333911.9456,1,FALSE,'Monthly',1,453384.3486,Non-Recyclable
+2016,66.6634241,Patch Injector,Type2 Plastic,1085823.19,0,FALSE,'Monthly',1,1602983.828,Non-Recyclable
+2020,223.0953527,Autoinjector,Type2 Plastic,544469.5263,1,FALSE,'Monthly',0,772392.301,Non-Recyclable
+2016,51.81112299,Patch Injector,Recyclable Plastic,1175591.887,0,TRUE,'Monthly',1,807207.5687,Recyclable
+2010,50,Patch Injector,Recyclable Plastic,407066,0,TRUE,'Yearly',0,294105.0592,Recyclable
+2014,72.65307632,Patch Injector,Type1 Plastic,932299.1168,1,FALSE,'Monthly',1,1335275.429,Non-Recyclable
+2013,80.65966837,Autoinjector,Type1 Plastic,215066.4502,1,FALSE,'Monthly',1,310888.5234,Non-Recyclable
+2017,110.7031447,Pen,Recyclable Plastic,995376.5295,0,TRUE,'Monthly',1,686925.5831,Recyclable
+2025,237.6775488,Autoinjector,Type1 Plastic,67218.1651,0,FALSE,'Weekly',1,96951.84542,Non-Recyclable
+2013,71.60848989,Autoinjector,Type1 Plastic,602483.2204,0,FALSE,'Monthly',1,814464.3461,Non-Recyclable
+2015,90.31894355,Autoinjector,Recyclable Plastic,109666.5029,0,TRUE,'Daily',1,89118.9076,Recyclable
+2025,208.31232,Pen,Type2 Plastic,1845647.901,1,FALSE,'Monthly',1,2741346.535,Non-Recyclable
+2012,53.06790811,Pen,Recyclable Plastic,540416.9639,0,TRUE,'Weekly',1,422683.9434,Recyclable
