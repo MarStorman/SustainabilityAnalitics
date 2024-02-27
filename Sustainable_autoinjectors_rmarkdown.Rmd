@@ -1,0 +1,368 @@
+---
+title: "Sustainable autoinjectors: analysis and evaluation"
+author: "Goran Nikolov, Marusa Storman, Kenneth Jeong"
+output:  
+  html_document:
+    theme: cerulean
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+date: "2024-02-26"
+---
+
+```{r setup, include = FALSE, eval=TRUE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(show.signif.stars = FALSE)
+rnd <- 2
+```
+
+```{r knitr-setup, include = FALSE, eval=TRUE, echo=FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE, include = FALSE)
+```
+
+```{r libraries, include=FALSE, eval=TRUE, echo=FALSE}
+library(readr)   # For reading CSV files
+library(dplyr)   # For data manipulation
+library(ggplot2) # For data visualization
+##add libraries here
+```
+
+### Introduction
+
+Since 1970, usage of plastic in health care industry has been rapidly growing. With modernization of health care approach, society adjusted to safer medical procedures, reduced infections and overall better fluid management. Single use plastic products, like gloves and tubes, increased safety and prevent risk of cross-contamination and infections, while potentially contribute towards carbon emissions and climate change. Single-use plastic, however efficient for our safety, present a growing waste management challenge. Inappropriate disposal and usage of such materials significantly contribute to pollution and CO2 emissions. There is currently no exact figures about the amount of plastic disposal in medicine, but some studies suggest that plastic might account for as much as 30% of total waste in healthcare (source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7068768/) 
+
+Autoinjectors present a specific category of single use plastic in healthcare sector, with an exponentially growing demand. Increase is due to increase of medication in liquid form, growth of certain diseases and overall aging population. Chronic and lifestyle diseases such as diabetes, cancer, arthritis, and obesity are on the rise, which contribute to rising demand of autoinjectors. There are numerous benefits of autoinjectors, such as usage safety, simplicity, patients comfort and accessability which promote compliance and improve therapy outcome. However, on the down side, the negative impact on environment is alarming and can not be overlooked.
+
+In this report will have a closer look into current impact of autoinjectors growth on the environment. Our goal is to look into data to find the potential solution that can comply with environmental responsibilities and help manufacturers, pharmaceutical industry and governing bodies towards green solutions.
+
+
+### Exploratory Data Analysis (EDA)
+---
+
+
+```{r setup, include=FALSE, eval=TRUE, echo=FALSE}
+
+# Load autoinjectors data 
+data <- read_csv("data_autoinjectors_clean.csv")
+head(data)
+
+# Load death cause data and extract Switzerland
+death_cause <- read.csv("annual-number-of-deaths-by-cause_ourworldindata.csv", sep = ";")
+
+head(ch_death_cause)
+ch_death_cause <- subset(death_cause, Entity == 'Switzerland')
+
+print(names(ch_death_cause))
+
+
+str(data)
+head(death_cause)
+
+```
+Data is straightforward and consist of 1000 observations and 11 variables. Material type is noted as plastic type 1 and 2, which is not currently recyclable and as recyclable plastics (currently not known if the whole autoinjectors could be recyclable or only partly). Reusability refers to autoinjectors that can be reusable, so used more than one time and efficacy represent how efficant is the manufaction of autoinjectors; non-efficant production means direct waste without usability.
+
+```{r summary, include=FALSE, eval=TRUE, echo=FALSE}
+summary(data)
+head(data)
+```
+
+
+
+
+```{r trend demand, echo=FALSE, eval=TRUE, echo=FALSE} 
+ggplot(data, aes(x = Year, y = `Demand (in millions)`)) +
+  geom_line(group = 1, color = "#4CB391") + # Light green color for the line
+  geom_point(color = "#FFC0CB") + # Light pink color for the points
+  theme_minimal() +
+  labs(title = "Yearly Demand for Autoinjectors Trend", x = "Year", y = "Demand (in millions)")
+
+
+# 4. Volume Produced vs. Carbon Footprint
+ggplot(data, aes(x = `Volume Produced`, y = `Carbon Footprint`)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +  # Add a lineartrendline
+  labs(title = "Volume Produced vs. Carbon Footprint",
+       x = "Volume Produced",
+       y = "Carbon Footprint")
+
+## Analyze the rise in diseases requiring autoinjectors
+diseases_of_interest <- c('Cardiovascular diseases', 'Diabetes mellitus', 'Neoplasms')
+for (disease in diseases_of_interest) {
+  print(paste("In Switzerland,", disease, "has been on the rise."))
+}
+
+
+
+#  Plotting
+ggplot(ch_death_cause, aes(x = Year)) +
+  geom_line(aes(y = `Cardiovascular.diseases`), color = "blue") +
+  geom_line(aes(y = `Diabetes.mellitus`), color = "red") +
+  geom_line(aes(y = Neoplasms), color = "green") +
+  labs(title = "Rise in Diseases Requiring Autoinjectors in Switzerland",
+       x = "Year",
+       y = "Number of Deaths") +
+  scale_color_manual(values = c("blue", "red", "green"),
+                     labels = c("Cardiovascular diseases", "Diabetes mellitus", "Neoplasms")) +
+  theme_minimal()
+
+```
+Explain plots; growing demand for autoinjectors, explain a bit about that 
+
+```{r reusability, echo = FALSE, eval=TRUE, echo=FALSE}
+
+
+# Define a function to convert usage frequency to times per year
+convert_to_times_per_year <- function(frequency) {
+  ifelse(frequency == 'Weekly', 52,
+         ifelse(frequency == 'Yearly', 1,
+                ifelse(frequency == 'Monthly', 12,
+                       ifelse(frequency == 'Daily', 365, NA))))
+}
+
+
+# Convert usage frequency to times per year
+data$`Usage Frequency` <- convert_to_times_per_year(data$`Usage Frequency`)
+
+# Predict potential increase in product lifecycle with 100% reusability
+data$Potential_Lifecycle <- data$Reusable * data$`Usage Frequency`
+
+# Plotting potential lifecycle
+ggplot(data, aes(x = Potential_Lifecycle)) +
+  geom_histogram(binwidth = 1000, fill = "skyblue", color = "black") +
+  labs(title = "Distribution of Potential Lifecycle",
+       x = "Potential Lifecycle",
+       y = "Frequency") +
+  theme_minimal()
+
+
+# Create frame: Compare CO2 emissions between recyclable and non-recyclable materials
+recyclable_materials <- c('Recyclable Plastic')
+non_recyclable_materials <- c('Type1 Plastic', 'Type 2 Plastic')
+
+# Calculate CO2 emissions for recyclable and non-recyclable materials separately
+co2_emissions_recyclable <- sum(data$`Carbon Footprint`[data$`Material Type` %in% recyclable_materials])
+co2_emissions_non_recyclable <- sum(data$`Carbon Footprint`[data$`Material Type` %in% non_recyclable_materials])
+
+print(paste("Total CO2 emissions for recyclable materials:", co2_emissions_recyclable))
+print(paste("Total CO2 emissions for non-recyclable materials:", co2_emissions_non_recyclable))
+
+# Reusable Autoinjectors
+ggplot(data, aes(x = Reusable, fill = factor(Reusable))) +
+  geom_bar() +
+  scale_fill_manual(values = c("0" = "#FFB6C1", "1" = "#ADD8E6")) +
+  labs(title = "Count of Reusable vs. Non-Reusable Autoinjectors", x = "Reusable", y = "Count")
+
+# Recyclable Autoinjectors
+ggplot(data, aes(x = Recyclable, fill = factor(Recyclable))) +
+  geom_bar() +
+  scale_fill_manual(values = c("FALSE" = "#FFB6C1", "TRUE" = "#ADD8E6")) +
+  labs(title = "Count of Recyclable vs. Non-Recyclable Autoinjectors", x = "Recyclable", y = "Count")
+
+# Plot boxplots for relevant variables
+ggplot(data, aes(x = `Material Type`, y = `Carbon Footprint`, fill = `Material Type`)) +
+  geom_boxplot() +
+  labs(title = "Boxplot of Carbon Footprint by Material Type")
+```
+Write here: mention that reusability would prolong the life-line of the product and reduce the platic waste, we should increase recyclability to reduce co2 emission 
+
+
+```{r co2 emissions, echo = FALSE, eval=TRUE, echo=FALSE}
+
+##We do not need all the plots - choose one or two and comment out the ones we do not need - do not delete please 
+
+#Merge plastic 1 and 2 as non-recyclable
+data <- data %>%
+  mutate(MaterialCategory = case_when(
+    `Material Type` %in% c("Type1 Plastic", "Type2 Plastic") ~ "Non-Recyclable",
+    TRUE ~ "Recyclable"
+  ))
+
+##Plot to compare CO2 between recyclable and non-recyclable materials
+ggplot(data, aes(x = Year, y = `Carbon Footprint`, color = MaterialCategory)) +
+  geom_smooth(method = "lm", se = FALSE) + # Use linear models without confidence intervals
+  scale_color_manual(values = c("Recyclable" = "#ADD8E6", "Non-Recyclable" = "#FFB6C1")) +
+  theme_minimal() +
+  labs(title = "Carbon Footprint Trends by Material Category",
+       x = "Year",
+       y = "Carbon Footprint",
+       color = "Material Category") +
+  theme(legend.position = "bottom")
+
+
+#density plot 
+ggplot(data, aes(x = `Carbon Footprint`, fill = Recyclable)) +
+  geom_histogram(data = subset(data, Recyclable == TRUE), binwidth = 100000, alpha = 0.6, color = "black") +
+  geom_histogram(data = subset(data, Recyclable == FALSE), binwidth = 100000, alpha = 0.6, color = "black") +
+  scale_fill_manual(values = c("TRUE" = "#ADD8E6", "FALSE" = "#FFB6C1")) + # Light blue for recyclable, light pink for non-recyclable
+  theme_minimal() +
+  labs(title = "Carbon Footprint: Recyclable vs. Non-Recyclable Materials", x = "Carbon Footprint", y = "Count")
+
+# Histograms by Material Type
+ggplot(data, aes(x = `Carbon Footprint`, fill = `Material Type`)) +
+  geom_histogram(binwidth = 5000, position = "dodge") +
+  labs(title = "Distribution of Carbon Footprint by Material Type",
+       x = "Carbon Footprint",
+       y = "Frequency") +
+  theme_minimal()
+
+# Kernel Density Estimation for Carbon Footprint
+ggplot(data, aes(x = `Carbon Footprint`, fill = Recyclable)) +
+  geom_density(alpha = 0.5) +
+  labs(title = "Density Plot of Carbon Footprint by Recyclable",
+       x = "Carbon Footprint",
+       y = "Density") +
+  theme_minimal()
+
+# Data for CO2 emissions
+co2_emissions <- data.frame(
+  Material_Type = c("Recyclable", "Non-Recyclable"),
+  CO2_Emissions = c(206272763.832598, 344129479.10267)
+)
+
+# Plotting
+ggplot(co2_emissions, aes(x = Material_Type, y = CO2_Emissions, fill = Material_Type)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Total CO2 Emissions for Recyclable and Non-Recyclable Materials",
+       x = "Material Type",
+       y = "Total CO2 Emissions") +
+  theme_minimal()
+
+```
+
+
+```{r efficacy, echo = FALSE}
+#Efficacy rate exploration
+
+## Step 1: Calculate potential carbon footprint savings if efficacy rate were 100%
+
+carbon_footprint_before <- sum(data$`Carbon Footprint`)
+efficacy_rate_before <- mean(data$`Efficacy rate`)
+efficacy_rate_after <- 1.0  # 100% efficacy rate
+
+# Calculate potential carbon footprint savings
+carbon_footprint_after <- carbon_footprint_before * (1 - efficacy_rate_after / efficacy_rate_before)
+carbon_footprint_saved <- carbon_footprint_before - carbon_footprint_after
+
+print(paste("Potential carbon footprint savings if efficacy rate were 100%:", carbon_footprint_saved))
+
+# Calculate the proportion of carbon footprint saved
+proportion_saved <- carbon_footprint_saved / carbon_footprint_before
+
+# Create a data frame for visualization
+savings_data <- data.frame(Category = c("Before", "Potential Savings"),
+                           Value = c(carbon_footprint_before, carbon_footprint_saved))
+
+# Plotting pie chart
+ggplot(savings_data, aes(x = "", y = Value, fill = Category)) +
+  geom_bar(stat = "identity") +
+  coord_polar("y", start = 0) +
+  labs(title = "Potential Carbon Footprint Savings",
+       y = "Carbon Footprint",
+       fill = "") +
+  theme_void() +
+  theme(plot.title = element_text(hjust = 0.5),
+        legend.position = "bottom") +
+  geom_text(aes(label = paste0(round(Value / 1e6, 2), "M")), position = position_stack(vjust = 0.5))
+
+
+
+
+
+
+#2 potential co2 savings visualization
+# Total CO2 emissions by year and efficacy rate
+co2_summary <- data %>%
+  group_by(Year, `Efficacy rate`) %>%
+  summarise(TotalCarbonFootprint = sum(`Carbon Footprint`, na.rm = TRUE)) %>%
+  ungroup()
+
+# Potential savings
+total_co2_by_year <- co2_summary %>%
+  group_by(Year) %>%
+  summarise(TotalCarbon = sum(TotalCarbonFootprint, na.rm = TRUE))
+
+co2_savings <- merge(co2_summary[co2_summary$`Efficacy rate` == 1, ], total_co2_by_year, by = "Year")
+co2_savings$PotentialSavings = co2_savings$TotalCarbon - co2_savings$TotalCarbonFootprint
+
+# Plotting
+ggplot() +
+  geom_bar(data = co2_summary, aes(x = Year, y = TotalCarbonFootprint, fill = as.factor(`Efficacy rate`)), stat = "identity", position = "dodge") +
+  geom_line(data = co2_savings, aes(x = Year, y = TotalCarbon, group = 1), color = "black", linetype = "dashed") +
+  geom_point(data = co2_savings, aes(x = Year, y = TotalCarbon), color = "red", size = 3) +
+  scale_fill_manual(values = c("0" = "#FFB6C1", "1" = "#ADD8E6")) +
+  theme_minimal() +
+  labs(title = "Annual CO2 Emissions and Potential Savings with 100% Efficacy",
+       x = "Year",
+       y = "Total Carbon Footprint (CO2 Emissions)",
+       fill = "Efficacy Rate") +
+  guides(fill = guide_legend(title = "Efficacy Rate"))
+
+
+
+
+```
+Write here
+
+
+```{r qqplot, echo = FALSE}
+#2 Linear model regression
+model <- lm(`Carbon Footprint` ~ Year + `Volume Produced` + Reusable + Recyclable, data = data)
+summary(model)
+# briefly explain statistics 
+#3 QQ plot for CO2, extreme values
+# Q-Q plot for Carbon Footprint to assess tail behavior
+qqnorm(data$`Carbon Footprint`)
+qqline(data$`Carbon Footprint`, col = "red")
+
+# Assuming 'Carbon Footprint' and 'Year' are the names of the columns
+extreme_values <- data %>%
+  group_by(Year) %>%
+  summarise(MaxCarbonFootprint = max(`Carbon Footprint`, na.rm = TRUE)) %>%
+  ungroup() %>%
+  .$MaxCarbonFootprint
+
+# View the extreme values
+extreme_values
+
+# Load the ggplot2 library for plotting
+library(ggplot2)
+
+# Create a basic plot of extreme values
+ggplot(data, aes(x = Year, y = `Carbon Footprint`)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  labs(title = "Annual Maximum Carbon Footprint", x = "Year", y = "Carbon Footprint") +
+  theme_minimal()
+
+# Install and load the extRemes package
+#install.packages("extRemes")
+#library(extRemes)
+
+# Fit a GEV distribution to the extreme values
+gev_fit <- fevd(extreme_values, type = "GEV")
+
+# Summary of the GEV fit
+summary(gev_fit)
+
+# Create a QQ plot of the GEV fit
+??qqgev
+qqgev(gev_fit)
+
+
+```
+
+
+```{r statistics}
+#install.packages("ismev")
+head(data)
+# Load the package
+library(ismev)
+
+# Fit a GEV model to your data
+gev_fit <- gev.fit(data)
+
+# Generate a Q-Q plot
+qqplot(gev_fit)
+```
